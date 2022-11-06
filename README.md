@@ -1,4 +1,3 @@
-# hello-world
-project for testing
+Tasks
 
-Some changes to the readme file
+1. Add USB VBUS switch, this is switched from the ID pin port CC detect, a VBUS switch IC needs selecting and adding to the design 
