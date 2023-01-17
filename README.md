@@ -1,6 +1,6 @@
 Tasks
 
-1. 
+1. https://www.vishay.com/docs/77239/sqj264ep.pdf
 2. 
 3. Set voltage threshold levels for MAX16141AAAF
 4. Clock signal level to drive PCIe slotclock
