@@ -1,0 +1,442 @@
+Date: Sun, 29 Oct 2023 22:16:34 +0000
+From: Ryan Carpenter <ryan.c@sundancedsp.com>
+Subject: Re: SE125s FPGA Voiding
+Thread-Topic: SE125s FPGA Voiding
+Message-ID: <608D7668-BE8C-B844-8C1D-AEB9BAF648E1@hxcore.ol>
+To: Nory Nakhaee <Nory.N@sundancedsp.com>, 
+	Flemming CHRISTENSEN <Flemming.C@Sundance.com>, 
+	Marek KUZNIK <marek.k@sundance.com>, 
+	Christopher HAMBLIN <christopher.h@sundance.com>, 
+	Graeme PARKER <graeme.p@sundance.com>, Steven MATTU <Steven.M@sundance.com>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head><body><div dir=3D"ltr"><div></div><div><div><div>My comments also belo=
+w:</div><div id=3D"ms-outlook-mobile-signature"><div><br></div>Get <a href=
+=3D"https://aka.ms/o0ukef">Outlook for iOS</a></div></div><div>&nbsp;</div>=
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%"><div id=3D"di=
+vRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif"><b>From:</b> No=
+ry Nakhaee &lt;nory.n@sundancedsp.com&gt;<br><b>Sent:</b> Saturday, October=
+ 28, 2023 1:41 PM<br><b>To:</b> Flemming CHRISTENSEN &lt;Flemming.C@Sundanc=
+e.com&gt;; Ryan C &lt;Ryan.C@sundancedsp.com&gt;; Marek KUZNIK &lt;marek.k@=
+sundance.com&gt;; Christopher HAMBLIN &lt;christopher.h@sundance.com&gt;; G=
+raeme PARKER &lt;graeme.p@sundance.com&gt;; Steven MATTU &lt;Steven.M@sunda=
+nce.com&gt;<br><b>Subject:</b> RE: SE125s FPGA Voiding<div>&nbsp;</div></fo=
+nt></div><div dir=3D"auto">some comments below.&nbsp;</div><div dir=3D"auto=
+"><br></div><div dir=3D"auto"><br></div><div dir=3D"auto"><br></div><div id=
+=3D"composer_signature" dir=3D"auto"><div dir=3D"auto" style=3D"font-size:1=
+2px; color:rgb(87,87,87)">Sent via the Samsung Galaxy Z Fold3 5G, an AT&amp=
+;T 5G smartphone</div></div><div dir=3D"auto"><br></div><div><br></div><div=
+ align=3D"left" dir=3D"auto" style=3D"font-size:100%; color:rgb(0,0,0)"><di=
+v>-------- Original message --------</div><div>From: Flemming CHRISTENSEN &=
+lt;Flemming.C@Sundance.com&gt; </div><div>Date: 10/28/23 9:59 AM (GMT-08:00=
+) </div><div>To: Ryan C &lt;Ryan.C@sundancedsp.com&gt;, Marek KUZNIK &lt;ma=
+rek.k@sundance.com&gt;, Nory Nakhaee &lt;Nory.N@sundancedsp.com&gt;, Christ=
+opher HAMBLIN &lt;christopher.h@sundance.com&gt;, Graeme PARKER &lt;graeme.=
+p@sundance.com&gt;, Steven MATTU &lt;Steven.M@sundance.com&gt; </div><div>S=
+ubject: RE: SE125s FPGA Voiding </div><div><br></div></div><div class=3D"Wo=
+rdSection1" dir=3D"auto"><p class=3D"MsoNormal"><span style=3D"">Hi Ryan,</=
+span></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p class=
+=3D"MsoNormal"><span style=3D"">On the off-charge that you (or <a href=3D"m=
+ailto:Nory.N@sundancedsp.com" id=3D"OWAAM2FF8AF0539DB49AB999CAEF25A699C46">=
+<span style=3D"font-family:&quot;Calibri&quot;,sans-serif; text-decoration:=
+none">@Nory Nakhaee</span></a>) is also working on Saturday, then I have qu=
+estions that might help us to help on Monday, rather than Tuesday.</span></=
+p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><ol type=3D"1" s=
+tyle=3D"margin-top:0cm"><li class=3D"MsoListParagraph" style=3D"margin-left=
+:0cm"><span style=3D"">Do you have an x-rays of fully working SE125</span><=
+/li><ol style=3D"list-style-type:lower-alpha"><li class=3D"MsoListParagraph=
+" style=3D"margin-left:0cm"><span style=3D"">It would comparison much easie=
+r.<br>&gt;&gt;&gt;&gt; no butvcan ask for a few.&nbsp;</span></li></ol><li =
+class=3D"MsoListParagraph" style=3D"margin-left:0cm"><span style=3D"">Are t=
+hese boards using =E2=80=98re-balled=E2=80=99 Zynq ZU7/EV?<br><br></span></=
+li><li class=3D"MsoListParagraph" style=3D"margin-left:0cm"><span style=3D"=
+">Are these boards any of the ones that had a replaced ZU7/EV?</span></li><=
+ol style=3D"list-style-type:lower-alpha"><li class=3D"MsoListParagraph" sty=
+le=3D"margin-left:0cm"><span style=3D""><a href=3D"mailto:Nory.N@sundanceds=
+p.com" id=3D"OWAAM482424D0608C4CCC88FAC3300B628878"><span style=3D"font-fam=
+ily:&quot;Calibri&quot;,sans-serif; text-decoration:none">@Nory Nakhaee</sp=
+an></a> said that some SE125 were built with ZU11/EG</span></li></ol></ol>&=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&gt;&gt;&gt;&gt; according t=
+o Rocket,&nbsp; no.&nbsp; serial numbers they gave for those,&nbsp; all wor=
+k.&nbsp;<br><ol type=3D"1" style=3D"margin-top:0cm"><li class=3D"MsoListPar=
+agraph" style=3D"margin-left:0cm"><span style=3D"">Do these boards =E2=80=
+=98only=E2=80=99 have DDR issues?</span></li></ol><div>&nbsp; &nbsp; &nbsp;=
+ &gt;&gt;&gt;&gt;&nbsp; cant say until this is resolved and in some cases y=
+es.&nbsp;</div><div dir=3D"ltr"><b>&gt;&gt; For the boards with PL DDR4 pro=
+blems it seems that all the other interfaces are working properly</b></div>=
+<div dir=3D"ltr"><b><br></b></div><div dir=3D"ltr"><b>For boards with PS DD=
+R4 problems we cannot test many of the other interfaces since a lot of our =
+tests are dependent on the SSBL.</b></div><div><br></div><ol type=3D"1" sty=
+le=3D"margin-top:0cm"><li class=3D"MsoListParagraph" style=3D"margin-left:0=
+cm"><span style=3D"">Do you also have x rays of the DDR devices? <br>&gt;&g=
+t;&gt;&gt; yes,&nbsp; and threy look better soldering.&nbsp; also we can do=
+ conti uity test to under fpga with positive&nbsp; result.&nbsp; </span><di=
+v class=3D"MsoListParagraph" style=3D"margin-left:0cm"><span style=3D""><b>=
+&gt;&gt; Yes soldering looks more consistent under the DDR4 memories (for t=
+he majority of these at least), for testing continuity between ddr4 and fpg=
+a this is impossible for some of the lines as it is a direct trace between =
+ddr4 balls and fpga, but the voltages have all tested correctly and everyth=
+ing I could measure seemed good as well</b></span></div></li><li class=3D"M=
+soListParagraph" style=3D"margin-left:0cm"><span style=3D"">Do you use a =
+=E2=80=98Home-grown=E2=80=99 DDR test?</span></li><ol style=3D"list-style-t=
+ype:lower-alpha"><li class=3D"MsoListParagraph" style=3D"margin-left:0cm"><=
+span style=3D"">Does it give you details of the specific memory that fails?=
+<br>&gt;&gt;&gt;&gt; @Ryan.... </span><div class=3D"MsoListParagraph" style=
+=3D"margin-left:0cm"><span style=3D""><b>&gt;&gt; Yes we have a stand alone=
+ PSDDR4 test that can show that there seems to be problems in specific addr=
+esses, but the results are not consistent (errors appear in different areas=
+ and different sizes when the test is run multiple times) and seem to be mo=
+re related to the FPGA voiding, rather than isolating a particular ddr4 mem=
+ory chip</b></span></div><div class=3D"MsoListParagraph" style=3D"margin-le=
+ft:0cm"><span style=3D""><b><br></b></span></div><div class=3D"MsoListParag=
+raph" style=3D"margin-left:0cm"><span style=3D""><b>For PLDDR4 we have a te=
+st integrated into the Linux automated test, and of course the XDMA test bu=
+t for PLDDR4 we cannot isolate anything in particular.</b></span></div></li=
+></ol><li style=3D"display:block"><b><br></b></li><li class=3D"MsoListParag=
+raph" style=3D"margin-left:0cm"><span style=3D"">I had to try =E2=80=9CCo-P=
+ilot=E2=80=9D (That is Microsoft=E2=80=99s ChatGPT)</span></li></ol><p clas=
+s=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><s=
+pan style=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><span style=3D"">---=
+--------------</span></p><p class=3D"MsoNormal"><span style=3D"">DDR4 Testi=
+ng:</span></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p c=
+lass=3D"MsoNormal"><span style=3D"">how to test ddr4 on a Zynq FPGA</span><=
+/p><p class=3D"MsoNormal"><span style=3D"">Searching the web for: how to te=
+st ddr4 on a Zynq FPGA</span></p><p class=3D"MsoNormal"><span style=3D"">&n=
+bsp;</span></p><p class=3D"MsoNormal"><span style=3D"">Generating answers f=
+or you=E2=80=A6</span></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</s=
+pan></p><p class=3D"MsoNormal"><span style=3D"">I have searched the web for=
+ how to test ddr4 on a Zynq FPGA and found some relevant results. Here is a=
+ summary of what I found:</span></p><p class=3D"MsoNormal"><span style=3D""=
+>&nbsp;</span></p><p class=3D"MsoNormal"><span style=3D"">One way to test t=
+he PS DDR4 memory on a Zynq UltraScale+ MPSoC device is to use the zynqmp_d=
+ram_test application, which is a stand-alone program that runs on a single =
+Cortex-A53 processor and uses the UART for interactive operations. The appl=
+ication offers various memory tests with configurable data patterns and mem=
+ory ranges, as well as read and write eye measurements. You can create a si=
+mple design with PS DDR4 in Vivado, generate an XSA file, create a Vitis ap=
+plication project using the zynqmp_dram_test template, and run the applicat=
+ion on your target device. You can find a detailed tutorial on how to do th=
+is in this article or [this video].</span></p><p class=3D"MsoNormal"><span =
+style=3D"">Another way to test the PS DDR4 memory on a Zynq UltraScale+ MPS=
+oC device is to use the Xilinx Memory Test (XMT) tool, which is a GUI-based=
+ tool that allows you to perform various memory tests and diagnostics on yo=
+ur target device. You can launch the XMT tool from the Vitis IDE or from th=
+e command line. You can select the device, the memory type, the test type, =
+the test parameters, and the test duration. You can also view the test resu=
+lts and logs in the XMT tool. You can find more information about the XMT t=
+ool in [this user guide] or [this video].</span></p><p class=3D"MsoNormal">=
+<span style=3D"">If you want to test the PL DDR4 memory on a Zynq UltraScal=
+e+ MPSoC device, you can use the DDR4 SDRAM IP core, which is a soft IP cor=
+e that provides access to DDR4 SDRAM devices for PL masters. You can config=
+ure the IP core using the Vivado IP catalog, generate an example design, an=
+d run simulation or hardware tests on your target device. You can find more=
+ information about the DDR4 SDRAM IP core in [this product guide] or [this =
+video].</span></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p>=
+<p class=3D"MsoNormal"><span style=3D""><a href=3D"https://support.xilinx.c=
+om/s/article/1216727?language=3Den_US">https://support.xilinx.com/s/article=
+/1216727?language=3Den_US</a></span></p><p class=3D"MsoNormal"><span style=
+=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><span style=3D""><a href=3D"h=
+ttps://opensource.googleblog.com/2023/02/supporting-ddr4-and-ddr5-rdimms-in=
+-open-source-dram-security-testing-framework.html">https://opensource.googl=
+eblog.com/2023/02/supporting-ddr4-and-ddr5-rdimms-in-open-source-dram-secur=
+ity-testing-framework.html</a></span></p><p class=3D"MsoNormal"><span style=
+=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span=
+></p><ol type=3D"1" start=3D"8" style=3D"margin-top:0cm"><li class=3D"MsoLi=
+stParagraph" style=3D"margin-left:0cm"><span style=3D"">I wish =E2=80=98we=
+=E2=80=99 could afford this tool - <a href=3D"https://www.xjtag.com/product=
+s/">https://www.xjtag.com/products/</a> - as SMT also have problems with LP=
+-DDR4 on a batch of VCS3, so SDPS are not alone with the pain!</span></li><=
+/ol><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p class=3D"Ms=
+oNormal"><span style=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><span sty=
+le=3D"">Onwards =E2=80=93 and I am sorry that =E2=80=98we=E2=80=99 are in t=
+he same boat, but we will =E2=80=9CLive &amp; Learn=E2=80=9D</span></p><p c=
+lass=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p class=3D"MsoNormal"=
+><span style=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><span style=3D"">=
+Flemming</span></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p=
+><p class=3D"MsoNormal"><span style=3D""><a href=3D"mailto:christopher.h@su=
+ndance.com" id=3D"OWAAM4BB81145261D43F39DD24A20B9C0033C"><span style=3D"fon=
+t-family:&quot;Calibri&quot;,sans-serif; text-decoration:none">@Christopher=
+ Hamblin</span></a> &amp; <a href=3D"mailto:graeme.p@sundance.com" id=3D"OW=
+AAM12286D67D53440D3A0FB014DF43D233F"><span style=3D"font-family:&quot;Calib=
+ri&quot;,sans-serif; text-decoration:none">@Graeme Parker</span></a> &amp; =
+<a href=3D"mailto:Steven.M@sundance.com" id=3D"OWAAM2BA8E9BFC7E34BF3A4ADEA1=
+406D50F38"><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; text-=
+decoration:none">@Steven MATTU</span></a> =E2=80=93 the files comes next </=
+span><span style=3D"font-family:&quot;Segoe UI Emoji&quot;,sans-serif">=F0=
+=9F=98=89</span><span style=3D""></span></p><p class=3D"MsoNormal"><span st=
+yle=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</s=
+pan></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p class=
+=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><sp=
+an style=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><span style=3D"">&nbs=
+p;</span></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p cl=
+ass=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p class=3D"MsoNormal">=
+<span style=3D"">&nbsp;</span></p><p class=3D"MsoNormal"><span style=3D"">&=
+nbsp;</span></p><p class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p=
+ class=3D"MsoNormal"><span style=3D"">&nbsp;</span></p><p class=3D"MsoNorma=
+l"><span style=3D""><br><br><br></span></p><p class=3D"MsoNormal"><span sty=
+le=3D"">&nbsp;</span></p><div><div dir=3D"ltr" style=3D"font-size:1px; dire=
+ction:ltr"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"width:100%; font-size:1px"><tbody><tr style=3D"font-size:0"><td align=3D"l=
+eft" style=3D"vertical-align:top"><table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" style=3D"font-size:0"><tbody><tr style=3D"font-size:0"><td a=
+lign=3D"left" style=3D"padding:0 10px 0 0; border-top:none; border-right:so=
+lid 2px #000001; border-bottom:none; border-left:none; vertical-align:top">=
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width:100%=
+; font-size:0"><tbody><tr style=3D"font-size:0"><td align=3D"left" style=3D=
+"padding:10px 0 0; vertical-align:top"><table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"width:100%; font-size:0; line-height:normal"><=
+tbody><tr style=3D"font-size:0"><td align=3D"center" style=3D"vertical-alig=
+n:middle"><a id=3D"LPlnk689713" href=3D"https://www.sundance.com/" style=3D=
+"text-decoration:none"><img alt=3D"www.sundance.com" title=3D"www.sundance.=
+com" border=3D"0" height=3D"100" width=3D"100" src=3D"cid:image171838.png@B=
+E69DF13.38DB56FA" style=3D"width:100px; min-width:100px; max-width:100px; h=
+eight:100px; min-height:100px; max-height:100px; font-size:12px"></a></td><=
+/tr><tr style=3D"font-size:0"><td align=3D"right" style=3D"vertical-align:b=
+ottom"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"fon=
+t-size:0"><tbody><tr style=3D"font-size:0"><td align=3D"right" style=3D"pad=
+ding:25px 0 0; vertical-align:bottom"><table border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" style=3D"font-size:0"><tbody><tr style=3D"font-size:0"><=
+td align=3D"left" style=3D"vertical-align:top"><table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" style=3D"width:100%; font-size:0; line-height:n=
+ormal"><tbody><tr style=3D"font-size:0"><td align=3D"center" style=3D"paddi=
+ng:0 3px 0 0; vertical-align:top"><a id=3D"LPlnk689713" href=3D"https://twi=
+tter.com/SundanceDotCom" style=3D"text-decoration:none"><img alt=3D"Twitter=
+" title=3D"Twitter" border=3D"0" height=3D"18" width=3D"18" src=3D"cid:imag=
+e147524.png@F31A3238.94B476BE" style=3D"width:18px; min-width:18px; max-wid=
+th:18px; height:18px; min-height:18px; max-height:18px; font-size:12px"></a=
+></td></tr></tbody></table></td><td align=3D"left" style=3D"vertical-align:=
+top"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width=
+:100%; font-size:0; line-height:normal"><tbody><tr style=3D"font-size:0"><t=
+d align=3D"center" style=3D"padding:0 3px 0 0; vertical-align:top"><a id=3D=
+"LPlnk689713" href=3D"https://www.facebook.com/SundanceDotCom" style=3D"tex=
+t-decoration:none"><img alt=3D"Facebook" title=3D"Facebook" border=3D"0" he=
+ight=3D"18" width=3D"18" src=3D"cid:image939782.png@6C40AB8A.85A36A1B" styl=
+e=3D"width:18px; min-width:18px; max-width:18px; height:18px; min-height:18=
+px; max-height:18px; font-size:12px"></a></td></tr></tbody></table></td><td=
+ align=3D"left" style=3D"vertical-align:top"><table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"width:100%; font-size:0; line-height:nor=
+mal"><tbody><tr style=3D"font-size:0"><td align=3D"center" style=3D"padding=
+:0 3px 0 0; vertical-align:top"><a id=3D"LPlnk689713" href=3D"https://www.y=
+outube.com/channel/UCWQYCL_GOoKQDWs2CxxpGHw" style=3D"text-decoration:none"=
+><img alt=3D"YouTube" title=3D"YouTube" border=3D"0" height=3D"18" width=3D=
+"18" src=3D"cid:image207393.png@05F7B175.2C31EB1B" style=3D"width:18px; min=
+-width:18px; max-width:18px; height:18px; min-height:18px; max-height:18px;=
+ font-size:12px"></a></td></tr></tbody></table></td><td align=3D"left" styl=
+e=3D"vertical-align:top"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"width:100%; font-size:0; line-height:normal"><tbody><tr sty=
+le=3D"font-size:0"><td align=3D"center" style=3D"padding:0 3px 0 0; vertica=
+l-align:top"><a id=3D"LPlnk689713" href=3D"https://www.linkedin.com/company=
+/289659" style=3D"text-decoration:none"><img alt=3D"LinkedIn" title=3D"Link=
+edIn" border=3D"0" height=3D"18" width=3D"18" src=3D"cid:image841480.png@C0=
+1C7E15.61B282EE" style=3D"width:18px; min-width:18px; max-width:18px; heigh=
+t:18px; min-height:18px; max-height:18px; font-size:12px"></a></td></tr></t=
+body></table></td><td align=3D"left" style=3D"vertical-align:middle"><table=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-size:0; lin=
+e-height:normal"><tbody><tr style=3D"font-size:0"><td align=3D"left" style=
+=3D"padding:0 3px 0 0; vertical-align:middle"><a id=3D"LPlnk689713" href=3D=
+"https://www.instagram.com/sundancedotcom/" style=3D"text-decoration:none">=
+<img alt=3D"Instagram" title=3D"Instagram" border=3D"0" height=3D"18" width=
+=3D"18" src=3D"cid:image371963.png@CA11ABF9.42FAACFA" style=3D"width:18px; =
+min-width:18px; max-width:18px; height:18px; min-height:18px; max-height:18=
+px; font-size:12px"></a></td></tr></tbody></table></td></tr></tbody></table=
+></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></ta=
+ble></td><td align=3D"left" style=3D"padding:10px 0 10px 10px; vertical-ali=
+gn:middle"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"width:100%; font-size:0"><tbody><tr style=3D"font-size:20px; font-style:no=
+rmal; font-weight:700; white-space:nowrap; color:rgb(96,96,96)"><td align=
+=3D"left" style=3D"vertical-align:top; font-family:Calibri,Arial,sans-serif=
+">Flemming&nbsp;CHRISTENSEN<span style=3D"font-family:remialcxesans; font-s=
+ize:1px; line-height:1px; color:rgb(255,255,255)">=E2=80=8B</span></td></tr=
+><tr style=3D"font-size:0"><td align=3D"left" style=3D"vertical-align:top">=
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-size:=
+0px; font-style:normal; font-weight:700; white-space:nowrap; color:rgb(128,=
+128,128)"><tbody><tr style=3D"font-size:14.67px"><td align=3D"left" style=
+=3D"vertical-align:top; font-family:Calibri,Arial,sans-serif">Managing&nbsp=
+;Director</td></tr></tbody></table></td></tr><tr style=3D"font-size:0"><td =
+align=3D"left" style=3D"vertical-align:top"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"font-size:0"><tbody><tr style=3D"font-siz=
+e:0"><td align=3D"left" style=3D"padding:10px 0 0; vertical-align:top"><tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-size:0px;=
+ font-style:normal; font-weight:400; white-space:nowrap; color:rgb(128,128,=
+128)"><tbody><tr style=3D"font-size:14.67px"><td align=3D"left" style=3D"ve=
+rtical-align:top; font-family:Calibri,Arial,sans-serif"><a id=3D"LPlnk68971=
+3" href=3D"tel:+44%201494%20793%20167" style=3D"text-decoration:none; color=
+:rgb(128,128,128)"><span style=3D"color:rgb(221,148,37)">t:</span>&nbsp;+44=
+&nbsp;1494&nbsp;793&nbsp;167</a></td><td align=3D"left" style=3D"vertical-a=
+lign:top; font-size:0"><table border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" style=3D"font-size:0px; font-style:normal; font-weight:400; white-space=
+:nowrap; color:rgb(0,0,1)"><tbody><tr style=3D"font-size:14.67px"><td align=
+=3D"left" style=3D"padding:0 7px; vertical-align:top; font-family:Calibri,A=
+rial,sans-serif">&nbsp;|&nbsp;</td></tr></tbody></table></td><td align=3D"l=
+eft" style=3D"vertical-align:top; font-family:Calibri,Arial,sans-serif"><sp=
+an style=3D"color:rgb(221,148,37)">m:</span>&nbsp;<a id=3D"LPlnk689713" hre=
+f=3D"tel:+44%207850%20911%20417" style=3D"text-decoration:none; color:rgb(1=
+28,128,128)">+44&nbsp;7850&nbsp;911&nbsp;417</a></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr><tr style=3D"font-size:0"><td align=3D"l=
+eft" style=3D"vertical-align:top"><table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" style=3D"font-size:0px; font-style:normal; font-weight:400; =
+white-space:nowrap; color:rgb(128,128,128)"><tbody><tr style=3D"font-size:1=
+4.67px"><td align=3D"left" style=3D"vertical-align:top; font-family:Calibri=
+,Arial,sans-serif"><span style=3D"color:rgb(221,148,37)">e:</span>&nbsp;<a =
+id=3D"LPlnk689713" href=3D"mailto:Flemming.C@sundance.com" style=3D"text-de=
+coration:none; color:rgb(128,128,128)">Flemming.C@Sundance.com</a></td><td =
+align=3D"left" style=3D"vertical-align:top; font-size:0"><table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-size:0px; font-style:no=
+rmal; font-weight:400; white-space:nowrap; color:rgb(0,0,1)"><tbody><tr sty=
+le=3D"font-size:14.67px"><td align=3D"left" style=3D"padding:0 7px; vertica=
+l-align:top; font-family:Calibri,Arial,sans-serif">&nbsp;|&nbsp;</td></tr><=
+/tbody></table></td><td align=3D"left" style=3D"vertical-align:top; font-fa=
+mily:Calibri,Arial,sans-serif"><a title=3D"www.sundance.com" id=3D"LPlnk689=
+713" href=3D"https://www.sundance.com/" style=3D"text-decoration:none; colo=
+r:rgb(128,128,128)"><span style=3D"color:rgb(221,148,37)">w:</span>&nbsp;ww=
+w.sundance.com</a></td></tr></tbody></table></td></tr><tr style=3D"font-siz=
+e:0"><td align=3D"left" style=3D"vertical-align:top"><table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" style=3D"font-size:0px; font-style:normal=
+; font-weight:400; white-space:nowrap; color:rgb(128,128,128)"><tbody><tr s=
+tyle=3D"font-size:14.67px"><td align=3D"left" style=3D"vertical-align:top; =
+font-family:Calibri,Arial,sans-serif"><span style=3D"color:rgb(221,148,37)"=
+>a:&nbsp;</span>Sundance&nbsp;Multiprocessor&nbsp;Technology&nbsp;Ltd.<br>=
+=E2=80=8B&nbsp;&nbsp;&nbsp;&nbsp;Unit&nbsp;20&nbsp;Chiltern&nbsp;House,&nbs=
+p;Waterside,&nbsp;Chesham,&nbsp;Bucks,&nbsp;HP5&nbsp;1PS,&nbsp;UNITED&nbsp;=
+KINGDOM.</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbo=
+dy></table></td></tr><tr style=3D"font-size:0"><td align=3D"left" style=3D"=
+vertical-align:top"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"font-size:0px; font-style:normal; font-weight:400; white-space:no=
+wrap; color:rgb(128,128,128)"><tbody><tr style=3D"font-size:11px"><td align=
+=3D"left" style=3D"padding:15px 0 10px; vertical-align:top; font-family:Cal=
+ibri,Arial,sans-serif">Sundance&nbsp;Multiprocessor&nbsp;Technology&nbsp;is=
+&nbsp;a&nbsp;limited&nbsp;company&nbsp;registered&nbsp;in&nbsp;England&nbsp=
+;and&nbsp;Wales.&nbsp;=E2=80=8BRegistered&nbsp;number:&nbsp;2440991.<br>=E2=
+=80=8BE=E2=80=91mail&nbsp;transmission&nbsp;cannot&nbsp;be&nbsp;guaranteed&=
+nbsp;to&nbsp;be&nbsp;secure&nbsp;or&nbsp;error=E2=80=91free&nbsp;as&nbsp;in=
+formation&nbsp;could&nbsp;be&nbsp;intercepted,&nbsp;corrupted,&nbsp;lost,<b=
+r>=E2=80=8Bdestroyed,&nbsp;arrive&nbsp;late&nbsp;or&nbsp;incomplete,&nbsp;o=
+r&nbsp;contain&nbsp;viruses.&nbsp;Sundance&nbsp;therefore&nbsp;does&nbsp;no=
+t&nbsp;accept&nbsp;liability&nbsp;for&nbsp;any&nbsp;errors&nbsp;or<br>=E2=
+=80=8Bomissions&nbsp;in&nbsp;the&nbsp;contents&nbsp;of&nbsp;this&nbsp;messa=
+ge,&nbsp;which&nbsp;arise&nbsp;as&nbsp;a&nbsp;result&nbsp;of&nbsp;e=E2=80=
+=91mail&nbsp;transmission.&nbsp;</td></tr></tbody></table></td></tr></tbody=
+></table></div><div style=3D"border:none; border-top:solid #E1E1E1 1.0pt; p=
+adding:3.0pt 0cm 0cm 0cm"><p class=3D"MsoNormal"><b><span lang=3D"EN-US" st=
+yle=3D"">From:</span></b><span lang=3D"EN-US" style=3D""> ryan.c@sundanceds=
+p.com &lt;ryan.c@sundancedsp.com&gt; <br><b>Sent:</b> Friday, October 27, 2=
+023 9:33 PM<br><b>To:</b> Marek KUZNIK &lt;marek.k@sundance.com&gt;; Nory N=
+akhaee &lt;NoryN@sundancedsp.com&gt;<br><b>Cc:</b> Flemming CHRISTENSEN &lt=
+;Flemming.C@Sundance.com&gt;<br><b>Subject:</b> SE125s FPGA Voiding</span><=
+/p></div></div><p class=3D"MsoNormal">&nbsp;</p><p class=3D"MsoNormal"><spa=
+n lang=3D"EN-US">Hello Marek,</span></p><p class=3D"MsoNormal"><span lang=
+=3D"EN-US">&nbsp;</span></p><p class=3D"MsoNormal"><span lang=3D"EN-US">We =
+have several boards from this most recent batch of SE125s that are failing =
+our DDR4 memory testing PL and/or PS.</span></p><p class=3D"MsoNormal"><spa=
+n lang=3D"EN-US">&nbsp;</span></p><p class=3D"MsoNormal"><span lang=3D"EN-U=
+S">I have attached the Xray images from some of our boards that are failing=
+. These are from underneath the FPGA and I am including the ones that I hav=
+e certainly noticed voids on.</span></p><p class=3D"MsoNormal"><span lang=
+=3D"EN-US">&nbsp;</span></p><p class=3D"MsoNormal"><span lang=3D"EN-US">I k=
+now IPC610 says that there should be no more than 25% voids when soldering =
+a BGA and our assembly house says that it passed their QA. Can you look at =
+them and let me know what you think? For one or two of the images can you h=
+ighlight or circle the specific balls that are violating this standard?</sp=
+an></p><p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p><p clas=
+s=3D"MsoNormal"><span lang=3D"EN-US">We have had a few outside experts with=
+ a lot of knowledge in manufacturing agree that there are many balls which =
+have voiding exceeding IPC requirements and cold solders. </span></p><p cla=
+ss=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p><p class=3D"MsoNorma=
+l"><span lang=3D"EN-US">We appreciate your expertise and knowledge on these=
+ matters.</span></p><p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</spa=
+n></p><p class=3D"MsoNormal"><span lang=3D"EN-US">Thank you so much!</span>=
+</p><p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p><table cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"MsoNormalTable" styl=
+e=3D"background:white; border-collapse:collapse"><tbody><tr><td valign=3D"t=
+op" width=3D"65" style=3D"width:48.75pt; padding:0cm 10.5pt 0cm 0cm"><p cla=
+ss=3D"MsoNormal"><span style=3D"font-size:12pt; font-family:Arial,sans-seri=
+f; color:black"><img alt=3D"Logo=0A=
+=0A=
+Description automatically generated" src=3D"cid:image001.png@01DA09C6.E07E9=
+E60" id=3D"Picture_x0020_4" height=3D"65" width=3D"65" border=3D"0" style=
+=3D"width:.6791in; height:.6791in"></span><span style=3D"font-size:12pt; fo=
+nt-family:Arial,sans-serif; color:black"></span></p></td><td valign=3D"top"=
+ style=3D"border:none; border-left:solid #BDBDBD 1.0pt; padding:0cm 0cm 0cm=
+ 10.5pt"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"M=
+soNormalTable" style=3D"border-collapse:collapse"><tbody><tr><td style=3D"p=
+adding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><b><span style=3D"font-size:=
+13.5pt; font-family:Arial,sans-serif; color:rgb(100,100,100)">Ryan Carpente=
+r</span></b><span style=3D"font-size:12.0pt; font-family:&quot;Arial&quot;,=
+sans-serif"><br></span><b><span style=3D"font-size:10.5pt; font-family:Aria=
+l,sans-serif; color:rgb(100,100,100)">Lead Project Engineer,&nbsp;Sundance =
+Digital Signal Processing Inc</span></b><span style=3D"font-size:12.0pt; fo=
+nt-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr><td nowrap=
+=3D"" style=3D"padding:10.5pt 0cm 0cm 0cm"><p class=3D"MsoNormal"><span sty=
+le=3D""><a href=3D"tel:17758273103"><span style=3D"font-size:9pt; font-fami=
+ly:Arial,sans-serif; color:rgb(33,33,33)">17758273103&nbsp;</span></a></spa=
+n><span style=3D"font-size:9pt; font-family:Arial,sans-serif; color:rgb(33,=
+33,33)">&nbsp;|&nbsp;&nbsp;</span><span style=3D""><a href=3D"http://www.su=
+ndancedsp.com/"><span style=3D"font-size:9pt; font-family:Arial,sans-serif;=
+ color:rgb(33,33,33)">www.sundancedsp.com&nbsp;</span></a></span><span styl=
+e=3D"font-size:9pt; font-family:Arial,sans-serif; color:rgb(33,33,33)">&nbs=
+p;|&nbsp;&nbsp;</span><span style=3D""><a href=3D"mailto:ryan.c@sundancedsp=
+.com"><span style=3D"font-size:9pt; font-family:Arial,sans-serif; color:rgb=
+(33,33,33)">ryan.c@sundancedsp.com</span></a></span><span style=3D"font-siz=
+e:12.0pt; font-family:&quot;Times New Roman&quot;,serif"></span></p></td></=
+tr><tr><td nowrap=3D"" style=3D"padding:6.0pt 0cm 0cm 0cm"><p class=3D"MsoN=
+ormal"><u><span style=3D"font-size:9pt; font-family:Arial,sans-serif; color=
+:rgb(33,33,33)"><a href=3D"https://maps.google.com/?q=3D1575%20Delucchi%20L=
+ane%20unit%20215"><span style=3D"color:rgb(33,33,33)">1575 Delucchi Lane un=
+it 215</span></a> Reno NV 89502 USA</span></u><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,serif"></span></p></td></tr></t=
+body></table></td></tr></tbody></table><p class=3D"MsoNormal"><span lang=3D=
+"EN-US" style=3D"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span></p><p class=3D"MsoNormal"><span lang=3D"EN-US" style=
+=3D"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><a href=3D"https://twitte=
+r.com/"><span lang=3D"EN-US" style=3D"font-size:9pt; font-family:Arial,sans=
+-serif; text-decoration:none; color:blue"><img alt=3D"witter icon" src=3D"c=
+id:image002.png@01DA09C6.E07E9E60" id=3D"Picture_x0020_5" height=3D"16" wid=
+th=3D"16" border=3D"0" style=3D"width:.1666in; height:.1666in"></span></a><=
+span lang=3D"EN-US" style=3D"font-size:9.0pt; font-family:&quot;Arial&quot;=
+,sans-serif">&nbsp;</span><a href=3D"https://www.facebook.com/"><span lang=
+=3D"EN-US" style=3D"font-size:9pt; font-family:Arial,sans-serif; text-decor=
+ation:none; color:blue"><img alt=3D"Title: Facebook - Description: Facebook=
+ icon" src=3D"cid:image003.png@01DA09C6.E07E9E60" id=3D"Picture_x0020_70" h=
+eight=3D"16" width=3D"16" border=3D"0" style=3D"width:.1666in; height:.1666=
+in"></span></a><span lang=3D"EN-US" style=3D"font-size:9.0pt; font-family:&=
+quot;Arial&quot;,sans-serif">&nbsp;</span><a href=3D"https://www.linkedin.c=
+om/company/sundance-digital-signal-proccessing-inc/"><span lang=3D"EN-US" s=
+tyle=3D"font-size:9pt; font-family:Arial,sans-serif; text-decoration:none; =
+color:blue"><img alt=3D"Title: LinkedIn - Description: LinkedIn icon" src=
+=3D"cid:image004.png@01DA09C6.E07E9E60" id=3D"Picture_x0020_76" height=3D"1=
+6" width=3D"16" border=3D"0" style=3D"width:.1666in; height:.1666in"></span=
+></a><span lang=3D"EN-US" style=3D"font-size:9.0pt; font-family:&quot;Arial=
+&quot;,sans-serif">&nbsp;&nbsp;</span><a href=3D"https://www.youtube.com/">=
+<span lang=3D"EN-US" style=3D"font-size:9pt; font-family:Arial,sans-serif; =
+text-decoration:none; color:blue"><img alt=3D"Title: Youtube - Description:=
+ Youtube icon" src=3D"cid:image005.png@01DA09C6.E07E9E60" id=3D"Picture_x00=
+20_79" height=3D"16" width=3D"16" border=3D"0" style=3D"width:.1666in; heig=
+ht:.1666in"></span></a><span lang=3D"EN-US" style=3D"font-size:9.0pt; font-=
+family:&quot;Arial&quot;,sans-serif"></span></p><p class=3D"MsoNormal"><spa=
+n lang=3D"EN-US" style=3D"font-size:9.0pt; font-family:&quot;Arial&quot;,sa=
+ns-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang=3D"EN-US" =
+style=3D""><img alt=3D"Text=0A=
+=0A=
+Description automatically generated" src=3D"cid:image006.png@01DA09C6.E07E9=
+E60" id=3D"Picture_x0020_1" height=3D"69" width=3D"154" border=3D"0" style=
+=3D"width:1.6041in; height:.7208in"></span><span lang=3D"EN-US" style=3D"">=
+</span></p><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"">&nbsp;</s=
+pan></p><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"">The contents=
+ of this e-mail message and any attachments are intended solely for the add=
+ressee(s) and may contain confidential and/or legally privileged informatio=
+n. If you are not the intended recipient of this message or if this message=
+ has been addressed to you in error, please immediately alert the sender by=
+ reply e-mail and then delete this message and any attachments. If you are =
+not the intended recipient, you are notified that any use, dissemination, d=
+istribution, copying, or storage of this message or any attachment is stric=
+tly prohibited.</span></p><p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp=
+;</span></p></div></div></div></body></html>=
