@@ -1,0 +1,956 @@
+Date: Thu, 8 Feb 2024 21:26:02 +0000
+From: Flemming CHRISTENSEN <Flemming.C@Sundance.com>
+Subject: EMC3 
+Thread-Topic: EMC3 
+Message-ID:
+ <LO6P123MB66578E02A0E9FE657B1AE243F2442@LO6P123MB6657.GBRP123.PROD.OUTLOOK.COM>
+To: Nory Nakhaee <Nory.N@sundancedsp.com>, 
+	Steven MATTU <Steven.M@sundance.com>, 
+	Lynn CRAWLEY-TRICE <lynn.ct@sundance.com>
+Content-Type: multipart/related;
+	boundary="_8C9CC5FB-B037-1646-A4EF-BE1B5E9F232D_"
+MIME-Version: 1.0
+
+--_8C9CC5FB-B037-1646-A4EF-BE1B5E9F232D_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><m=
+eta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)"><sty=
+le>
+<!--
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:Aptos}
+@font-face
+	{font-family:remialcxesans}
+@font-face
+	{font-family:template-K9qWG_FKEeqZwygYeMk54g}
+@font-face
+	{font-family:zone-1}
+@font-face
+	{font-family:zones-AQ}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+p.xxmsonormal, li.xxmsonormal, div.xxmsonormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif}
+p.xxxmsonormal, li.xxxmsonormal, div.xxxmsonormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif}
+p.xxxxmsonormal, li.xxxxmsonormal, div.xxxxmsonormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif}
+span.EmailStyle24
+	{font-family:"Calibri",sans-serif;
+	color:windowtext}
+.MsoChpDefault
+	{font-size:10.0pt}
+@page WordSection1
+	{margin:72.0pt 72.0pt 72.0pt 72.0pt}
+div.WordSection1
+	{}
+-->
+</style></head><body lang=3D"EN-GB" link=3D"blue" vlink=3D"purple" style=3D=
+"word-wrap:break-word"><div class=3D"WordSection1"><p class=3D"MsoNormal"><=
+span style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif"=
+>Nory,</span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; fo=
+nt-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p><p class=3D"MsoN=
+ormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,san=
+s-serif">It was the photo we shared that other day. We are still trying get=
+ life into the carrier and hope that <a id=3D"OWAAMAFDB8A9F827241B8BB3FA07E=
+301600B0" href=3D"mailto:Steven.M@sundance.com"><span style=3D"font-family:=
+&quot;Calibri&quot;,sans-serif; text-decoration:none">@Steven MATTU</span><=
+/a> will fix it soon. We have 4x built and think got parts for 10x </span><=
+/p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quo=
+t;Calibri&quot;,sans-serif">&nbsp;</span></p><p class=3D"MsoNormal"><span s=
+tyle=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">The p=
+rice=E2=80=A6 - that is still TBA, as we do not have full costing done, but=
+ <a id=3D"OWAAM0419179F6A594EA499907108A2209694" href=3D"mailto:lynn.ct@sun=
+dance.com"><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; text-=
+decoration:none">@Lynn CRAWLEY-TRICE</span></a> might have that next week.<=
+/span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-fami=
+ly:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p><p class=3D"MsoNormal">=
+<span style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif=
+">It=E2=80=99s not a replacement for EMC2, as does not have FMC, but lots o=
+f MIPI Interfaces.</span></p><p class=3D"MsoNormal"><span style=3D"font-siz=
+e:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p><p c=
+lass=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calib=
+ri&quot;,sans-serif">You can share the specification but still have a TBC o=
+n some parts</span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0=
+pt; font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calibri&q=
+uot;,sans-serif">FC </span></p><p class=3D"MsoNormal"><span style=3D"font-s=
+ize:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p><d=
+iv><div style=3D"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt=
+ 0cm 0cm 0cm"><p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-=
+size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">From:</span></b><s=
+pan lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quo=
+t;,sans-serif"> NORY.N@sundancedsp.com &lt;NORY.N@sundancedsp.com&gt; <br><=
+b>Sent:</b> Thursday, February 8, 2024 9:18 PM<br><b>To:</b> Flemming CHRIS=
+TENSEN &lt;Flemming.C@Sundance.com&gt;<br><b>Subject:</b> RE: Linux PCIe su=
+pport on EMC2-ZU4CG</span></p></div></div><p class=3D"MsoNormal">&nbsp;</p>=
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font=
+-family:&quot;Calibri&quot;,sans-serif">Can you help please?</span></p><p c=
+lass=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-fam=
+ily:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p><div><div style=3D"bor=
+der:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm"><p cla=
+ss=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-fa=
+mily:&quot;Calibri&quot;,sans-serif">From:</span></b><span lang=3D"EN-US" s=
+tyle=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif"> Kevi=
+n S Martin &lt;<a href=3D"mailto:ksmartin@fnal.gov">ksmartin@fnal.gov</a>&g=
+t; <br><b>Sent:</b> Thursday, February 8, 2024 1:06 PM<br><b>To:</b> <a hre=
+f=3D"mailto:NORY.N@sundancedsp.com">NORY.N@sundancedsp.com</a><br><b>Subjec=
+t:</b> Re: Linux PCIe support on EMC2-ZU4CG</span></p></div></div><p class=
+=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p><div><p class=3D"MsoNo=
+rmal"><span lang=3D"EN-US" style=3D"color:black">Hi Nory,</span></p></div><=
+div><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:black">&nbsp=
+;</span></p></div><div><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D=
+"color:black">I also have a product question. I noticed on your website tha=
+t you have a relatively new product called the EMC3. However, there does no=
+t seem to be much documentation about it. Is this board available? What is =
+it's approx. price? I specifically want to know what FPGA I/O signals are a=
+vailable for application use via EMC3 connectors?</span></p></div><div><p c=
+lass=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:black">&nbsp;</span>=
+</p></div><div><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:b=
+lack">Thanks,</span></p></div><div><p class=3D"MsoNormal"><span lang=3D"EN-=
+US" style=3D"color:black">Kevin</span></p></div><div><div><p class=3D"MsoNo=
+rmal"><span lang=3D"EN-US" style=3D"color:black">&nbsp;</span></p></div><di=
+v id=3D"Signature"><div><p><span lang=3D"EN-US" style=3D"font-size:9.0pt; c=
+olor:black">--</span><span lang=3D"EN-US"></span></p><p><span lang=3D"EN-US=
+" style=3D"font-size:9.0pt; color:black">Kevin Martin<br>Fermi National Acc=
+elerator Laboratory<br>Accelerator Directorate<br>Power Electronics Systems=
+ Department<br>630.840.2983<br><a href=3D"mailto:ksmartin@fnal.gov">ksmarti=
+n@fnal.gov</a></span><span lang=3D"EN-US"></span></p></div></div></div><div=
+ class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span lan=
+g=3D"EN-US"><hr size=3D"1" width=3D"98%" align=3D"center"></span></div><div=
+ id=3D"divRplyFwdMsg"><p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=
+=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif; color:bla=
+ck">From:</span></b><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-fa=
+mily:&quot;Calibri&quot;,sans-serif; color:black"> Kevin S Martin &lt;<a hr=
+ef=3D"mailto:ksmartin@fnal.gov">ksmartin@fnal.gov</a>&gt;<br><b>Sent:</b> T=
+hursday, February 8, 2024 3:00 PM<br><b>To:</b> <a href=3D"mailto:NORY.N@su=
+ndancedsp.com">NORY.N@sundancedsp.com</a> &lt;<a href=3D"mailto:NORY.N@sund=
+ancedsp.com">NORY.N@sundancedsp.com</a>&gt;<br><b>Subject:</b> Re: Linux PC=
+Ie support on EMC2-ZU4CG</span><span lang=3D"EN-US"> </span></p><div><p cla=
+ss=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p></div></div><div><di=
+v><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:black">Hi Nory=
+,</span></p></div><div><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D=
+"color:black">&nbsp;</span></p></div><div><p class=3D"MsoNormal"><span lang=
+=3D"EN-US" style=3D"color:black">Thanks for trying to get me some help.</sp=
+an></p></div><div><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"colo=
+r:black">&nbsp;</span></p></div><div><p class=3D"MsoNormal"><span lang=3D"E=
+N-US" style=3D"color:black">This is not a Linux (software) issue. It has to=
+ do with configuring the support for PCIe in the FPGA using Vivado.</span><=
+/p></div><div><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:bl=
+ack">&nbsp;</span></p></div><div><p class=3D"MsoNormal"><span lang=3D"EN-US=
+" style=3D"color:black">Is there a firmware (hardware) support person who y=
+ou could put me in contact with?</span></p></div><div><p class=3D"MsoNormal=
+"><span lang=3D"EN-US" style=3D"color:black">&nbsp;</span></p></div><div><p=
+ class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"color:black">Thanks,</sp=
+an></p></div><div><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"colo=
+r:black">Kevin</span></p></div><div><div><p class=3D"MsoNormal"><span lang=
+=3D"EN-US" style=3D"color:black">&nbsp;</span></p></div><div id=3D"x_Signat=
+ure"><div><p><span lang=3D"EN-US" style=3D"font-size:9.0pt; color:black">--=
+</span><span lang=3D"EN-US"></span></p><p><span lang=3D"EN-US" style=3D"fon=
+t-size:9.0pt; color:black">Kevin Martin<br>Fermi National Accelerator Labor=
+atory<br>Accelerator Directorate<br>Power Electronics Systems Department<br=
+>630.840.2983<br><a href=3D"mailto:ksmartin@fnal.gov">ksmartin@fnal.gov</a>=
+</span><span lang=3D"EN-US"></span></p></div></div></div><div class=3D"MsoN=
+ormal" align=3D"center" style=3D"text-align:center"><span lang=3D"EN-US"><h=
+r size=3D"1" width=3D"98%" align=3D"center"></span></div><div id=3D"x_divRp=
+lyFwdMsg"><p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size=
+:11.0pt; font-family:&quot;Calibri&quot;,sans-serif; color:black">From:</sp=
+an></b><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Ca=
+libri&quot;,sans-serif; color:black"> <a href=3D"mailto:NORY.N@sundancedsp.=
+com">NORY.N@sundancedsp.com</a> &lt;<a href=3D"mailto:NORY.N@sundancedsp.co=
+m">NORY.N@sundancedsp.com</a>&gt;<br><b>Sent:</b> Thursday, February 8, 202=
+4 12:49 PM<br><b>To:</b> Kevin S Martin &lt;<a href=3D"mailto:ksmartin@fnal=
+.gov">ksmartin@fnal.gov</a>&gt;; 'Flemming CHRISTENSEN' &lt;<a href=3D"mail=
+to:Flemming.C@Sundance.com">Flemming.C@Sundance.com</a>&gt;<br><b>Cc:</b> P=
+eter S. Drechsler &lt;<a href=3D"mailto:petersd@fnal.gov">petersd@fnal.gov<=
+/a>&gt;; 'Ryan C' &lt;<a href=3D"mailto:Ryan.C@sundancedsp.com">Ryan.C@sund=
+ancedsp.com</a>&gt;<br><b>Subject:</b> RE: Linux PCIe support on EMC2-ZU4CG=
+</span><span lang=3D"EN-US"> </span></p><div><p class=3D"MsoNormal"><span l=
+ang=3D"EN-US">&nbsp;</span></p></div></div><div><div><p class=3D"xxmsonorma=
+l"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibr=
+i&quot;,sans-serif">Hi Kevin</span><span lang=3D"EN-US"></span></p><p class=
+=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-famil=
+y:&quot;Calibri&quot;,sans-serif">&nbsp;</span><span lang=3D"EN-US"></span>=
+</p><p class=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt=
+; font-family:&quot;Calibri&quot;,sans-serif">I did try to get support from=
+ US team but we only deal with Linux and not Petalinux so it will be quite =
+a bit of learning process involved. Sorry for not having better news.</span=
+><span lang=3D"EN-US"></span></p><p class=3D"xxmsonormal"><span lang=3D"EN-=
+US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">=
+&nbsp;</span><span lang=3D"EN-US"></span></p><p class=3D"xxmsonormal"><span=
+ lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,=
+sans-serif">Rgds</span><span lang=3D"EN-US"></span></p><p class=3D"xxmsonor=
+mal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Cali=
+bri&quot;,sans-serif">&nbsp;</span><span lang=3D"EN-US"></span></p><p class=
+=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-famil=
+y:&quot;Calibri&quot;,sans-serif">Nory</span><span lang=3D"EN-US"></span></=
+p><p class=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; =
+font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span><span lang=3D"EN-U=
+S"></span></p><div><div style=3D"border:none; border-top:solid #E1E1E1 1.0p=
+t; padding:3.0pt 0cm 0cm 0cm"><p class=3D"xxmsonormal"><b><span lang=3D"EN-=
+US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">=
+From:</span></b><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> <a href=3D"mailto:NORY.N@sundancedsp.com"=
+>NORY.N@sundancedsp.com</a> &lt;<a href=3D"mailto:NORY.N@sundancedsp.com">N=
+ORY.N@sundancedsp.com</a>&gt; <br><b>Sent:</b> Wednesday, January 31, 2024 =
+1:46 PM<br><b>To:</b> 'Kevin S Martin' &lt;<a href=3D"mailto:ksmartin@fnal.=
+gov">ksmartin@fnal.gov</a>&gt;; 'Flemming CHRISTENSEN' &lt;<a href=3D"mailt=
+o:Flemming.C@Sundance.com">Flemming.C@Sundance.com</a>&gt;<br><b>Cc:</b> 'P=
+eter S. Drechsler' &lt;<a href=3D"mailto:petersd@fnal.gov">petersd@fnal.gov=
+</a>&gt;; 'Ryan C' &lt;<a href=3D"mailto:Ryan.C@sundancedsp.com">Ryan.C@sun=
+dancedsp.com</a>&gt;<br><b>Subject:</b> RE: Linux PCIe support on EMC2-ZU4C=
+G</span><span lang=3D"EN-US"></span></p></div></div><p class=3D"xxmsonormal=
+"><span lang=3D"EN-US">&nbsp;</span></p><p class=3D"xxmsonormal"><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-=
+serif">Hello Kevin</span><span lang=3D"EN-US"></span></p><p class=3D"xxmson=
+ormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Ca=
+libri&quot;,sans-serif">&nbsp;</span><span lang=3D"EN-US"></span></p><p cla=
+ss=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-fam=
+ily:&quot;Calibri&quot;,sans-serif">Let me see if our team can help from th=
+is side of the pond. </span><span lang=3D"EN-US"></span></p><p class=3D"xxm=
+sonormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot=
+;Calibri&quot;,sans-serif">&nbsp;</span><span lang=3D"EN-US"></span></p><p =
+class=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-=
+family:&quot;Calibri&quot;,sans-serif">&nbsp;</span><span lang=3D"EN-US"></=
+span></p><p class=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"font-size:1=
+1.0pt; font-family:&quot;Calibri&quot;,sans-serif">Rgds</span><span lang=3D=
+"EN-US"></span></p><p class=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"f=
+ont-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span><=
+span lang=3D"EN-US"></span></p><p class=3D"xxmsonormal"><span lang=3D"EN-US=
+" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">No=
+ry</span><span lang=3D"EN-US"></span></p><p class=3D"xxmsonormal"><span lan=
+g=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans=
+-serif">&nbsp;</span><span lang=3D"EN-US"></span></p><div><div style=3D"bor=
+der:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm"><p cla=
+ss=3D"xxmsonormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-=
+family:&quot;Calibri&quot;,sans-serif">From:</span></b><span lang=3D"EN-US"=
+ style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif"> Ke=
+vin S Martin &lt;<a href=3D"mailto:ksmartin@fnal.gov">ksmartin@fnal.gov</a>=
+&gt; <br><b>Sent:</b> Wednesday, January 31, 2024 1:42 PM<br><b>To:</b> Fle=
+mming CHRISTENSEN &lt;<a href=3D"mailto:Flemming.C@Sundance.com">Flemming.C=
+@Sundance.com</a>&gt;; Nory Nakhaee &lt;<a href=3D"mailto:Nory.N@sundanceds=
+p.com">Nory.N@sundancedsp.com</a>&gt;<br><b>Cc:</b> Peter S. Drechsler &lt;=
+<a href=3D"mailto:petersd@fnal.gov">petersd@fnal.gov</a>&gt;<br><b>Subject:=
+</b> Re: Linux PCIe support on EMC2-ZU4CG</span><span lang=3D"EN-US"></span=
+></p></div></div><p class=3D"xxmsonormal"><span lang=3D"EN-US">&nbsp;</span=
+></p><div><p class=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"color:blac=
+k">Hi Flemming,</span><span lang=3D"EN-US"></span></p></div><div><p class=
+=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"color:black">&nbsp;</span><s=
+pan lang=3D"EN-US"></span></p></div><div><p class=3D"xxmsonormal"><span lan=
+g=3D"EN-US" style=3D"color:black">While I wait for your Software Manager, I=
+'m wondering if there are any external resources that you can point me at?<=
+/span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxmsonormal"><=
+span lang=3D"EN-US" style=3D"color:black">&nbsp;</span><span lang=3D"EN-US"=
+></span></p></div><div><p class=3D"xxmsonormal"><span lang=3D"EN-US" style=
+=3D"color:black">Thanks,</span><span lang=3D"EN-US"></span></p></div><div><=
+p class=3D"xxmsonormal"><span lang=3D"EN-US" style=3D"color:black">Kevin</s=
+pan><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxmsonormal"><sp=
+an lang=3D"EN-US" style=3D"color:black">&nbsp;</span><span lang=3D"EN-US"><=
+/span></p></div><div id=3D"x_x_Signature"><p><span lang=3D"EN-US" style=3D"=
+font-size:9.0pt; color:black">--</span><span lang=3D"EN-US"></span></p><p><=
+span lang=3D"EN-US" style=3D"font-size:9.0pt; color:black">Kevin Martin<br>=
+Fermi National Accelerator Laboratory<br>Accelerator Directorate<br>Power E=
+lectronics Systems Department<br>630.840.2983<br><a href=3D"mailto:ksmartin=
+@fnal.gov">ksmartin@fnal.gov</a></span><span lang=3D"EN-US"></span></p></di=
+v><div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><sp=
+an lang=3D"EN-US"><hr size=3D"1" width=3D"98%" align=3D"center"></span></di=
+v><div id=3D"x_x_divRplyFwdMsg"><p class=3D"xxmsonormal"><b><span lang=3D"E=
+N-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif=
+; color:black">From:</span></b><span lang=3D"EN-US" style=3D"font-size:11.0=
+pt; font-family:&quot;Calibri&quot;,sans-serif; color:black"> Flemming CHRI=
+STENSEN &lt;<a href=3D"mailto:Flemming.C@Sundance.com">Flemming.C@Sundance.=
+com</a>&gt;<br><b>Sent:</b> Wednesday, January 31, 2024 3:23 PM<br><b>To:</=
+b> Kevin S Martin &lt;<a href=3D"mailto:ksmartin@fnal.gov">ksmartin@fnal.go=
+v</a>&gt;; Nory Nakhaee &lt;<a href=3D"mailto:Nory.N@sundancedsp.com">Nory.=
+N@sundancedsp.com</a>&gt;<br><b>Cc:</b> Peter S. Drechsler &lt;<a href=3D"m=
+ailto:petersd@fnal.gov">petersd@fnal.gov</a>&gt;<br><b>Subject:</b> RE: Lin=
+ux PCIe support on EMC2-ZU4CG</span><span lang=3D"EN-US"> </span></p><div><=
+p class=3D"xxmsonormal"><span lang=3D"EN-US">&nbsp;</span></p></div></div><=
+div><div><p class=3D"xxxmsonormal"><span style=3D"font-size:11.0pt">Hi Kevi=
+n,</span><span lang=3D"EN-US"></span></p><p class=3D"xxxmsonormal"><span st=
+yle=3D"font-size:11.0pt">&nbsp;</span><span lang=3D"EN-US"></span></p><p cl=
+ass=3D"xxxmsonormal"><span style=3D"font-size:11.0pt">I am sure that you PC=
+Ie/104 board you have works, but the answer to your question:</span><span l=
+ang=3D"EN-US"></span></p><p class=3D"xxxmsonormal"><span style=3D"font-size=
+:11.0pt">&nbsp;</span><span lang=3D"EN-US"></span></p><p class=3D"xxxxmsono=
+rmal"><i><span style=3D"color:black">Do you have any insight into what this=
+ might be? Are there additional device tree changes needed? Do you know of =
+any others who have gotten the PCIe bus working correctly on the&nbsp;EMC2-=
+ZU4CG?</span></i><span lang=3D"EN-US"></span></p><p class=3D"xxxmsonormal">=
+<span style=3D"font-size:11.0pt">&nbsp;</span><span lang=3D"EN-US"></span><=
+/p><p class=3D"xxxmsonormal"><span style=3D"font-size:11.0pt">We have no in=
+ternal resources that can help until the middle of February, as our Softwar=
+e Manager is on leave for family bereavement in France. On her list is also=
+ getting support the latest AMD tools.</span><span lang=3D"EN-US"></span></=
+p><p class=3D"xxxmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><=
+span lang=3D"EN-US"></span></p><p class=3D"xxxmsonormal"><span style=3D"fon=
+t-size:11.0pt">My feedback was more about the best scenario for interfacing=
+ ADCs with an EMC2 stack based on other customers' experiences and use-case=
+s.</span><span lang=3D"EN-US"></span></p><p class=3D"xxxmsonormal"><span st=
+yle=3D"font-size:11.0pt">&nbsp;</span><span lang=3D"EN-US"></span></p><p cl=
+ass=3D"xxxmsonormal"><span style=3D"font-size:11.0pt">Aware, not ideal. Sor=
+ry</span><span lang=3D"EN-US"></span></p><p class=3D"xxxmsonormal"><span st=
+yle=3D"font-size:11.0pt">&nbsp;</span><span lang=3D"EN-US"></span></p><p cl=
+ass=3D"xxxmsonormal"><span style=3D"font-size:11.0pt">Flemming </span><span=
+ lang=3D"EN-US"></span></p><p class=3D"xxxmsonormal"><span style=3D"font-si=
+ze:11.0pt">&nbsp;</span><span lang=3D"EN-US"></span></p><p class=3D"xxxmson=
+ormal"><span style=3D"font-size:11.0pt">&nbsp;</span><span lang=3D"EN-US"><=
+/span></p><p class=3D"xxxmsonormal"><span style=3D"font-size:11.0pt">&nbsp;=
+</span><span lang=3D"EN-US"></span></p><p class=3D"xxxmsonormal"><span styl=
+e=3D"font-size:11.0pt">&nbsp;</span><span lang=3D"EN-US"></span></p><p clas=
+s=3D"xxxmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><span lang=
+=3D"EN-US"></span></p><p class=3D"xxxmsonormal"><span style=3D"font-size:11=
+.0pt">&nbsp;</span><span lang=3D"EN-US"></span></p><p class=3D"xxxmsonormal=
+"><span style=3D"font-size:11.0pt">&nbsp;</span><span lang=3D"EN-US"></span=
+></p><div><div style=3D"border:none; border-top:solid #E1E1E1 1.0pt; paddin=
+g:3.0pt 0cm 0cm 0cm"><p class=3D"xxxmsonormal"><b><span lang=3D"EN-US" styl=
+e=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">From:</s=
+pan></b><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,sans-serif"> Kevin S Martin &lt;<a href=3D"mailto:ksmartin@fna=
+l.gov">ksmartin@fnal.gov</a>&gt; <br><b>Sent:</b> Wednesday, January 31, 20=
+24 9:11 PM<br><b>To:</b> Flemming CHRISTENSEN &lt;<a href=3D"mailto:Flemmin=
+g.C@Sundance.com">Flemming.C@Sundance.com</a>&gt;<br><b>Cc:</b> Nory Nakhae=
+e &lt;<a href=3D"mailto:Nory.N@sundancedsp.com">Nory.N@sundancedsp.com</a>&=
+gt;; Peter S. Drechsler &lt;<a href=3D"mailto:petersd@fnal.gov">petersd@fna=
+l.gov</a>&gt;<br><b>Subject:</b> Re: Linux PCIe support on EMC2-ZU4CG</span=
+><span lang=3D"EN-US"></span></p></div></div><p class=3D"xxxmsonormal">&nbs=
+p;<span lang=3D"EN-US"></span></p><div><p class=3D"xxxmsonormal"><span styl=
+e=3D"color:black">Hi Flemming,</span><span lang=3D"EN-US"></span></p></div>=
+<div><p class=3D"xxxmsonormal"><span style=3D"color:black">&nbsp;</span><sp=
+an lang=3D"EN-US"></span></p></div><div><p class=3D"xxxmsonormal"><span sty=
+le=3D"color:black">The issue isn't about which PCIe/104 board we use. Rathe=
+r the problem is that the Linux Xilinx PCIe driver throws errors upon start=
+ up (see the boot log from previous email).</span><span lang=3D"EN-US"></sp=
+an></p></div><div><div><p class=3D"xxxmsonormal"><span style=3D"color:black=
+">&nbsp;</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxms=
+onormal"><span style=3D"color:black">Thanks,</span><span lang=3D"EN-US"></s=
+pan></p></div><div><p class=3D"xxxmsonormal"><span style=3D"color:black">Ke=
+vin</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxmsonorm=
+al"><span style=3D"color:black">&nbsp;</span><span lang=3D"EN-US"></span></=
+p></div><div id=3D"x_x_x_Signature"><div><p><span style=3D"font-size:9.0pt;=
+ color:black">--</span><span lang=3D"EN-US"></span></p><p><span style=3D"fo=
+nt-size:9.0pt; color:black">Kevin Martin<br>Fermi National Accelerator Labo=
+ratory<br>Accelerator Directorate<br>Power Electronics Systems Department<b=
+r>630.840.2983<br><a href=3D"mailto:ksmartin@fnal.gov">ksmartin@fnal.gov</a=
+></span><span lang=3D"EN-US"></span></p></div></div></div><div class=3D"Mso=
+Normal" align=3D"center" style=3D"text-align:center"><hr size=3D"1" width=
+=3D"98%" align=3D"center"></div><div id=3D"x_x_x_divRplyFwdMsg"><p class=3D=
+"xxxmsonormal"><b><span style=3D"font-size:11.0pt; font-family:&quot;Calibr=
+i&quot;,sans-serif; color:black">From:</span></b><span style=3D"font-size:1=
+1.0pt; font-family:&quot;Calibri&quot;,sans-serif; color:black"> Flemming C=
+HRISTENSEN &lt;<a href=3D"mailto:Flemming.C@Sundance.com">Flemming.C@Sundan=
+ce.com</a>&gt;<br><b>Sent:</b> Wednesday, January 31, 2024 3:06 PM<br><b>To=
+:</b> Kevin S Martin &lt;<a href=3D"mailto:ksmartin@fnal.gov">ksmartin@fnal=
+.gov</a>&gt;<br><b>Cc:</b> Nory Nakhaee &lt;<a href=3D"mailto:Nory.N@sundan=
+cedsp.com">Nory.N@sundancedsp.com</a>&gt;; Peter S. Drechsler &lt;<a href=
+=3D"mailto:petersd@fnal.gov">petersd@fnal.gov</a>&gt;<br><b>Subject:</b> RE=
+: Linux PCIe support on EMC2-ZU4CG</span> <span lang=3D"EN-US"></span></p><=
+div><p class=3D"xxxmsonormal">&nbsp;<span lang=3D"EN-US"></span></p></div><=
+/div><div><div><p class=3D"xxxxmsonormal"><span style=3D"font-size:11.0pt">=
+Hi Kevin,</span><span lang=3D"EN-US"></span></p><p class=3D"xxxxmsonormal">=
+<span style=3D"font-size:11.0pt">&nbsp;</span><span lang=3D"EN-US"></span><=
+/p><p class=3D"xxxxmsonormal"><span style=3D"font-size:11.0pt">We have test=
+ed the EMC2=E2=80=99s PCIe in the past with PCIe to MiniPCI Adapter to get =
+a SATA connected + also as a =E2=80=98Slave=E2=80=99 to a x86 SBC with a PC=
+Ie/104 lane to add a Camera Link camera to a Host SBC</span><span lang=3D"E=
+N-US"></span></p><p class=3D"xxxxmsonormal"><span style=3D"font-size:11.0pt=
+">&nbsp;</span><span lang=3D"EN-US"></span></p><p class=3D"xxxxmsonormal"><=
+span style=3D"font-size:11.0pt">We have never tested with any PCIe/104 card=
+s with an ADC as that gets the data into the PS-side (CPU) of the Zynq rath=
+er than the PL-side (fabric), hence adding latency, etc.</span><span lang=
+=3D"EN-US"></span></p><p class=3D"xxxxmsonormal"><span style=3D"font-size:1=
+1.0pt">&nbsp;</span><span lang=3D"EN-US"></span></p><p class=3D"xxxxmsonorm=
+al"><span style=3D"font-size:11.0pt">We are unsure which PCIe/104 board you=
+ want to add or if it is a =E2=80=98Custom=E2=80=99 development, but we rec=
+ommend using an FMC Module.. </span><span lang=3D"EN-US"></span></p><p clas=
+s=3D"xxxxmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><span lan=
+g=3D"EN-US"></span></p><p class=3D"xxxxmsonormal"><span style=3D"font-size:=
+11.0pt">Maybe we even have one that does the job?</span><span lang=3D"EN-US=
+"></span></p><p class=3D"xxxxmsonormal"><span style=3D"font-size:11.0pt">&n=
+bsp;</span><span lang=3D"EN-US"></span></p><p class=3D"xxxxmsonormal"><span=
+ style=3D"font-size:11.0pt">All the best</span><span lang=3D"EN-US"></span>=
+</p><p class=3D"xxxxmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</spa=
+n><span lang=3D"EN-US"></span></p><p class=3D"xxxxmsonormal"><span style=3D=
+"font-size:11.0pt">Flemming </span><span lang=3D"EN-US"></span></p><p class=
+=3D"xxxxmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><span lang=
+=3D"EN-US"></span></p><div><div><table class=3D"MsoNormalTable" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100.0%"=
+><tbody><tr><td valign=3D"top" style=3D"padding:0cm 0cm 0cm 0cm"><table cla=
+ss=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbo=
+dy><tr><td valign=3D"top" style=3D"border:none; border-right:solid #000001 =
+1.5pt; padding:0cm 7.5pt 0cm 0cm"><table class=3D"MsoNormalTable" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100.0=
+%"><tbody><tr><td valign=3D"top" style=3D"padding:7.5pt 0cm 0cm 0cm"><table=
+ class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100.0%"><tbody><tr><td style=3D"padding:0cm 0=
+cm 0cm 0cm"><p class=3D"xxxmsonormal" align=3D"center" style=3D"text-align:=
+center"><a href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__w=
+ww.sundance.com_&amp;d=3DDwMFaQ&amp;c=3DgRgGjJ3BkIsb5y6s49QqsA&amp;r=3DqShQ=
+Ajs9aDRfH3Y5MNrq-SEV2BT5yrK7F5DtIupkjBk&amp;m=3DWLnihJ6zMar7ChFzZzVbb8ABGF-=
+_AV7cu34vvaIHcnFxXAdsInicT-tJRdAvALn-&amp;s=3D67gR7bNBFTITG5dRtm1Oqv91crHLr=
+JgaKDGSZQPniQw&amp;e=3D" target=3D"_blank"><span style=3D"font-size:1.0pt; =
+text-decoration:none"><img border=3D"0" width=3D"100" height=3D"100" id=3D"=
+x_x_x_Picture_x0020_2" src=3D"cid:image001.png@01DA5AD5.60357160" style=3D"=
+width:1.0416in; height:1.0416in"></span></a></p></td></tr><tr><td valign=3D=
+"bottom" style=3D"padding:0cm 0cm 0cm 0cm"><div align=3D"right"><table clas=
+s=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbod=
+y><tr><td valign=3D"bottom" style=3D"padding:18.75pt 0cm 0cm 0cm"><div alig=
+n=3D"right"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0"><tbody><tr><td valign=3D"top" style=3D"padding:0cm 0cm 0c=
+m 0cm"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"100%" style=3D"width:100.0%"><tbody><tr><td valign=3D=
+"top" style=3D"padding:0cm 2.25pt 0cm 0cm"><p class=3D"xxxmsonormal" align=
+=3D"center" style=3D"text-align:center"><a href=3D"https://urldefense.proof=
+point.com/v2/url?u=3Dhttps-3A__twitter.com_SundanceDotCom&amp;d=3DDwMFaQ&am=
+p;c=3DgRgGjJ3BkIsb5y6s49QqsA&amp;r=3DqShQAjs9aDRfH3Y5MNrq-SEV2BT5yrK7F5DtIu=
+pkjBk&amp;m=3DWLnihJ6zMar7ChFzZzVbb8ABGF-_AV7cu34vvaIHcnFxXAdsInicT-tJRdAvA=
+Ln-&amp;s=3DDYhJONAFO5tHVeIsvWk--VmMHDHSbL3N4AWtXvr9lVI&amp;e=3D" target=3D=
+"_blank"><span style=3D"font-size:1.0pt; text-decoration:none"><img border=
+=3D"0" width=3D"18" height=3D"18" id=3D"x_x_x_Picture_x0020_3" src=3D"cid:i=
+mage002.png@01DA5AD5.60357160" alt=3D"Twitter" style=3D"width:.1875in; heig=
+ht:.1875in"></span></a></p></td></tr></tbody></table></td><td valign=3D"top=
+" style=3D"padding:0cm 0cm 0cm 0cm"><table class=3D"MsoNormalTable" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:10=
+0.0%"><tbody><tr><td valign=3D"top" style=3D"padding:0cm 2.25pt 0cm 0cm"><p=
+ class=3D"xxxmsonormal" align=3D"center" style=3D"text-align:center"><a hre=
+f=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__www.facebook.co=
+m_SundanceDotCom&amp;d=3DDwMFaQ&amp;c=3DgRgGjJ3BkIsb5y6s49QqsA&amp;r=3DqShQ=
+Ajs9aDRfH3Y5MNrq-SEV2BT5yrK7F5DtIupkjBk&amp;m=3DWLnihJ6zMar7ChFzZzVbb8ABGF-=
+_AV7cu34vvaIHcnFxXAdsInicT-tJRdAvALn-&amp;s=3DWct3Xu2_rlUdBElBOY_2JmJyxl1Hi=
+DNrmGJ_amUrXS0&amp;e=3D" target=3D"_blank"><span style=3D"font-size:1.0pt; =
+text-decoration:none"><img border=3D"0" width=3D"18" height=3D"18" id=3D"x_=
+x_x_Picture_x0020_4" src=3D"cid:image003.png@01DA5AD5.60357160" alt=3D"Face=
+book" style=3D"width:.1875in; height:.1875in"></span></a></p></td></tr></tb=
+ody></table></td><td valign=3D"top" style=3D"padding:0cm 0cm 0cm 0cm"><tabl=
+e class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" style=3D"width:100.0%"><tbody><tr><td valign=3D"top" style=
+=3D"padding:0cm 2.25pt 0cm 0cm"><p class=3D"xxxmsonormal" align=3D"center" =
+style=3D"text-align:center"><a href=3D"https://urldefense.proofpoint.com/v2=
+/url?u=3Dhttps-3A__www.youtube.com_channel_UCWQYCL-5FGOoKQDWs2CxxpGHw&amp;d=
+=3DDwMFaQ&amp;c=3DgRgGjJ3BkIsb5y6s49QqsA&amp;r=3DqShQAjs9aDRfH3Y5MNrq-SEV2B=
+T5yrK7F5DtIupkjBk&amp;m=3DWLnihJ6zMar7ChFzZzVbb8ABGF-_AV7cu34vvaIHcnFxXAdsI=
+nicT-tJRdAvALn-&amp;s=3DCapJn3kBSRRxiCpc6PoBYveQ6_9Ga-W_synFLikL5WM&amp;e=
+=3D" target=3D"_blank"><span style=3D"font-size:1.0pt; text-decoration:none=
+"><img border=3D"0" width=3D"18" height=3D"18" id=3D"x_x_x_Picture_x0020_5"=
+ src=3D"cid:image004.png@01DA5AD5.60357160" alt=3D"YouTube" style=3D"width:=
+.1875in; height:.1875in"></span></a></p></td></tr></tbody></table></td><td =
+valign=3D"top" style=3D"padding:0cm 0cm 0cm 0cm"><table class=3D"MsoNormalT=
+able" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=
+=3D"width:100.0%"><tbody><tr><td valign=3D"top" style=3D"padding:0cm 2.25pt=
+ 0cm 0cm"><p class=3D"xxxmsonormal" align=3D"center" style=3D"text-align:ce=
+nter"><a href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__www=
+.linkedin.com_company_289659&amp;d=3DDwMFaQ&amp;c=3DgRgGjJ3BkIsb5y6s49QqsA&=
+amp;r=3DqShQAjs9aDRfH3Y5MNrq-SEV2BT5yrK7F5DtIupkjBk&amp;m=3DWLnihJ6zMar7ChF=
+zZzVbb8ABGF-_AV7cu34vvaIHcnFxXAdsInicT-tJRdAvALn-&amp;s=3DpH8XNqgQ5Ui-tOG_4=
+rMMM59QfiOesbOTRHXJ8uaVwhc&amp;e=3D" target=3D"_blank"><span style=3D"font-=
+size:1.0pt; text-decoration:none"><img border=3D"0" width=3D"18" height=3D"=
+18" id=3D"x_x_x_Picture_x0020_6" src=3D"cid:image005.png@01DA5AD5.60357160"=
+ alt=3D"LinkedIn" style=3D"width:.1875in; height:.1875in"></span></a></p></=
+td></tr></tbody></table></td><td style=3D"padding:0cm 0cm 0cm 0cm"><table c=
+lass=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><t=
+body><tr><td style=3D"padding:0cm 2.25pt 0cm 0cm"><p class=3D"xxxmsonormal"=
+><a href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__www.inst=
+agram.com_sundancedotcom_&amp;d=3DDwMFaQ&amp;c=3DgRgGjJ3BkIsb5y6s49QqsA&amp=
+;r=3DqShQAjs9aDRfH3Y5MNrq-SEV2BT5yrK7F5DtIupkjBk&amp;m=3DWLnihJ6zMar7ChFzZz=
+Vbb8ABGF-_AV7cu34vvaIHcnFxXAdsInicT-tJRdAvALn-&amp;s=3D85K-_4Yfj2kpsAuYp4rU=
+olDz-5DQ1laKOYnxjkBbH0U&amp;e=3D" target=3D"_blank"><span style=3D"font-siz=
+e:1.0pt; text-decoration:none"><img border=3D"0" width=3D"18" height=3D"18"=
+ id=3D"x_x_x_Picture_x0020_7" src=3D"cid:image006.png@01DA5AD5.60357160" al=
+t=3D"Instagram" style=3D"width:.1875in; height:.1875in"></span></a></p></td=
+></tr></tbody></table></td></tr></tbody></table></div></td></tr></tbody></t=
+able></div></td></tr></tbody></table></td></tr></tbody></table></td><td sty=
+le=3D"padding:7.5pt 0cm 7.5pt 7.5pt"><table class=3D"MsoNormalTable" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:10=
+0.0%"><tbody><tr><td valign=3D"top" style=3D"padding:0cm 0cm 0cm 0cm"><p cl=
+ass=3D"xxxmsonormal"><b><span style=3D"font-size:15.0pt; font-family:&quot;=
+Calibri&quot;,sans-serif; color:#606060">Flemming&nbsp;CHRISTENSEN</span></=
+b><b><span style=3D"font-size:1.0pt; font-family:remialcxesans; color:white=
+">=E2=80=8B</span></b><b><span style=3D"font-size:1.0pt; font-family:templa=
+te-K9qWG_FKEeqZwygYeMk54g; color:white">=E2=80=8B</span></b><b><span style=
+=3D"font-size:1.0pt; font-family:zone-1; color:white">=E2=80=8B</span></b><=
+b><span style=3D"font-size:1.0pt; font-family:zones-AQ; color:white">=E2=80=
+=8B</span></b></p></td></tr><tr><td valign=3D"top" style=3D"padding:0cm 0cm=
+ 0cm 0cm"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0"><tbody><tr><td valign=3D"top" style=3D"padding:0cm 0cm 0cm =
+0cm"><p class=3D"xxxmsonormal"><b><span style=3D"font-size:11.0pt; font-fam=
+ily:&quot;Calibri&quot;,sans-serif; color:gray">Managing&nbsp;Director</spa=
+n></b></p></td></tr></tbody></table></td></tr><tr><td valign=3D"top" style=
+=3D"padding:0cm 0cm 0cm 0cm"><table class=3D"MsoNormalTable" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td valign=3D"top" style=3D"p=
+adding:7.5pt 0cm 0cm 0cm"><table class=3D"MsoNormalTable" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0"><tbody><tr><td valign=3D"top" style=3D"padd=
+ing:0cm 0cm 0cm 0cm"><p class=3D"xxxmsonormal"><span style=3D"font-size:11.=
+0pt; font-family:&quot;Calibri&quot;,sans-serif; color:gray"><a href=3D"tel=
+:+44%201494%20793%20167" target=3D"_blank"><span style=3D"color:#DD9425; te=
+xt-decoration:none">t:</span><span style=3D"color:gray; text-decoration:non=
+e">&nbsp;+44&nbsp;1494&nbsp;793&nbsp;167</span></a></span></p></td><td vali=
+gn=3D"top" style=3D"padding:0cm 0cm 0cm 0cm"><table class=3D"MsoNormalTable=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td valign=3D=
+"top" style=3D"padding:0cm 5.25pt 0cm 5.25pt"><p class=3D"xxxmsonormal"><sp=
+an style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif; c=
+olor:#000001">&nbsp;|&nbsp;</span></p></td></tr></tbody></table></td><td va=
+lign=3D"top" style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"xxxmsonormal"><s=
+pan style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif; =
+color:#DD9425">m:</span><span style=3D"font-size:11.0pt; font-family:&quot;=
+Calibri&quot;,sans-serif; color:gray">&nbsp;<a href=3D"tel:+44%207850%20911=
+%20417" target=3D"_blank"><span style=3D"color:gray; text-decoration:none">=
++44&nbsp;7850&nbsp;911&nbsp;417</span></a></span></p></td></tr></tbody></ta=
+ble></td></tr></tbody></table></td></tr><tr><td valign=3D"top" style=3D"pad=
+ding:0cm 0cm 0cm 0cm"><table class=3D"MsoNormalTable" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0"><tbody><tr><td valign=3D"top" style=3D"padding:=
+0cm 0cm 0cm 0cm"><p class=3D"xxxmsonormal"><span style=3D"font-size:11.0pt;=
+ font-family:&quot;Calibri&quot;,sans-serif; color:#DD9425">e:</span><span =
+style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif; colo=
+r:gray">&nbsp;<a href=3D"mailto:Flemming.C@sundance.com" target=3D"_blank">=
+<span style=3D"color:gray; text-decoration:none">Flemming.C@Sundance.com</s=
+pan></a></span></p></td><td valign=3D"top" style=3D"padding:0cm 0cm 0cm 0cm=
+"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0"><tbody><tr><td valign=3D"top" style=3D"padding:0cm 5.25pt 0cm 5.25p=
+t"><p class=3D"xxxmsonormal"><span style=3D"font-size:11.0pt; font-family:&=
+quot;Calibri&quot;,sans-serif; color:#000001">&nbsp;|&nbsp;</span></p></td>=
+</tr></tbody></table></td><td valign=3D"top" style=3D"padding:0cm 0cm 0cm 0=
+cm"><p class=3D"xxxmsonormal"><span style=3D"font-size:11.0pt; font-family:=
+&quot;Calibri&quot;,sans-serif; color:gray"><a href=3D"https://urldefense.p=
+roofpoint.com/v2/url?u=3Dhttps-3A__www.sundance.com_&amp;d=3DDwMFaQ&amp;c=
+=3DgRgGjJ3BkIsb5y6s49QqsA&amp;r=3DqShQAjs9aDRfH3Y5MNrq-SEV2BT5yrK7F5DtIupkj=
+Bk&amp;m=3DWLnihJ6zMar7ChFzZzVbb8ABGF-_AV7cu34vvaIHcnFxXAdsInicT-tJRdAvALn-=
+&amp;s=3D67gR7bNBFTITG5dRtm1Oqv91crHLrJgaKDGSZQPniQw&amp;e=3D" target=3D"_b=
+lank" title=3D"www.sundance.com"><span style=3D"color:#DD9425; text-decorat=
+ion:none">w:</span><span style=3D"color:gray; text-decoration:none">&nbsp;w=
+ww.sundance.com</span></a></span></p></td></tr></tbody></table></td></tr><t=
+r><td valign=3D"top" style=3D"padding:0cm 0cm 0cm 0cm"><table class=3D"MsoN=
+ormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td=
+ valign=3D"top" style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"xxxmsonormal"=
+><span style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-seri=
+f; color:#DD9425">a:&nbsp;</span><span style=3D"font-size:11.0pt; font-fami=
+ly:&quot;Calibri&quot;,sans-serif; color:gray">Sundance&nbsp;Multiprocessor=
+&nbsp;Technology&nbsp;Ltd.<br>=E2=80=8B&nbsp;&nbsp;&nbsp;&nbsp;Unit&nbsp;20=
+&nbsp;Chiltern&nbsp;House,&nbsp;Waterside,&nbsp;Chesham,&nbsp;Bucks,&nbsp;H=
+P5&nbsp;1PS,&nbsp;UNITED&nbsp;KINGDOM.</span></p></td></tr></tbody></table>=
+</td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td valig=
+n=3D"top" style=3D"padding:0cm 0cm 0cm 0cm"><table class=3D"MsoNormalTable"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td valign=3D"=
+top" style=3D"padding:11.25pt 0cm 7.5pt 0cm"><p class=3D"xxxmsonormal"><spa=
+n style=3D"font-size:8.5pt; font-family:&quot;Calibri&quot;,sans-serif; col=
+or:gray">Sundance&nbsp;Multiprocessor&nbsp;Technology&nbsp;is&nbsp;a&nbsp;l=
+imited&nbsp;company&nbsp;registered&nbsp;in&nbsp;England&nbsp;and&nbsp;Wale=
+s.&nbsp;=E2=80=8BRegistered&nbsp;number:&nbsp;2440991.<br>=E2=80=8BE=E2=80=
+=91mail&nbsp;transmission&nbsp;cannot&nbsp;be&nbsp;guaranteed&nbsp;to&nbsp;=
+be&nbsp;secure&nbsp;or&nbsp;error=E2=80=91free&nbsp;as&nbsp;information&nbs=
+p;could&nbsp;be&nbsp;intercepted,&nbsp;corrupted,&nbsp;lost,<br>=E2=80=8Bde=
+stroyed,&nbsp;arrive&nbsp;late&nbsp;or&nbsp;incomplete,&nbsp;or&nbsp;contai=
+n&nbsp;viruses.&nbsp;Sundance&nbsp;therefore&nbsp;does&nbsp;not&nbsp;accept=
+&nbsp;liability&nbsp;for&nbsp;any&nbsp;errors&nbsp;or<br>=E2=80=8Bomissions=
+&nbsp;in&nbsp;the&nbsp;contents&nbsp;of&nbsp;this&nbsp;message,&nbsp;which&=
+nbsp;arise&nbsp;as&nbsp;a&nbsp;result&nbsp;of&nbsp;e=E2=80=91mail&nbsp;tran=
+smission.&nbsp;</span></p></td></tr></tbody></table></td></tr></tbody></tab=
+le></div><div style=3D"border:none; border-top:solid #E1E1E1 1.0pt; padding=
+:3.0pt 0cm 0cm 0cm"><p class=3D"xxxxmsonormal"><b><span lang=3D"EN-US" styl=
+e=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">From:</s=
+pan></b><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,sans-serif"> Kevin S Martin &lt;<a href=3D"mailto:ksmartin@fna=
+l.gov">ksmartin@fnal.gov</a>&gt; <br><b>Sent:</b> Wednesday, January 31, 20=
+24 5:47 PM<br><b>To:</b> Flemming CHRISTENSEN &lt;<a href=3D"mailto:Flemmin=
+g.C@Sundance.com">Flemming.C@Sundance.com</a>&gt;<br><b>Cc:</b> Nory Nakhae=
+e &lt;<a href=3D"mailto:Nory.N@sundancedsp.com">Nory.N@sundancedsp.com</a>&=
+gt;; Peter S. Drechsler &lt;<a href=3D"mailto:petersd@fnal.gov">petersd@fna=
+l.gov</a>&gt;<br><b>Subject:</b> Linux PCIe support on EMC2-ZU4CG</span><sp=
+an lang=3D"EN-US"></span></p></div></div><p class=3D"xxxxmsonormal">&nbsp;<=
+span lang=3D"EN-US"></span></p><div><p class=3D"xxxxmsonormal"><span style=
+=3D"color:black">Hello Flemming,</span><span lang=3D"EN-US"></span></p></di=
+v><div><p class=3D"xxxxmsonormal"><span style=3D"color:black">&nbsp;</span>=
+<span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxmsonormal"><span=
+ style=3D"color:black">This is a software technical question and I'm not su=
+re if you are the correct person to handle this or not. If not then would y=
+ou please forward this to whom ever is the correct person.</span><span lang=
+=3D"EN-US"></span></p></div><div><p class=3D"xxxxmsonormal"><span style=3D"=
+color:black">&nbsp;</span><span lang=3D"EN-US"></span></p></div><div><p cla=
+ss=3D"xxxxmsonormal"><span style=3D"color:black">I have, using your VCS-1 p=
+roject (<a href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__g=
+ithub.com_SundanceMultiprocessorTechnology_VCS-2D1&amp;d=3DDwMFaQ&amp;c=3Dg=
+RgGjJ3BkIsb5y6s49QqsA&amp;r=3DqShQAjs9aDRfH3Y5MNrq-SEV2BT5yrK7F5DtIupkjBk&a=
+mp;m=3DWLnihJ6zMar7ChFzZzVbb8ABGF-_AV7cu34vvaIHcnFxXAdsInicT-tJRdAvALn-&amp=
+;s=3DWvoUHhoFXOEVAKRhhBw5L_TGFBGZWucxwy7IeTF38tw&amp;e=3D">https://github.c=
+om/SundanceMultiprocessorTechnology/VCS-1</a>), created a working petalinux=
+ project. I am able to boot my board into Linux.</span><span lang=3D"EN-US"=
+></span></p></div><div><p class=3D"xxxxmsonormal"><span style=3D"color:blac=
+k">&nbsp;</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxx=
+msonormal"><span style=3D"color:black">I am using Petalinux 2019.2 and usin=
+g the&nbsp;VCS-1/Hardware/Xilinx/Petalinux/2019.2/vcs1.xsa file to create t=
+he project.</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xx=
+xxmsonormal"><span style=3D"color:black">&nbsp;</span><span lang=3D"EN-US">=
+</span></p></div><div><p class=3D"xxxxmsonormal"><span style=3D"color:black=
+">One of the requirements of our project is to connect a PCIe/104 ADC board=
+ to the EMC2-ZU4CG using the One-Bank connector. I noticed that the Linux P=
+CIe bus driver was not running by default and had to modify the device tree=
+ to enable the PCIe bus. I added the following to the petalinux project sys=
+tem-user.dtsi file:</span><span lang=3D"EN-US"></span></p></div><div><p cla=
+ss=3D"xxxxmsonormal"><span style=3D"color:black">&nbsp;</span><span lang=3D=
+"EN-US"></span></p></div><div><p class=3D"xxxxmsonormal"><span style=3D"col=
+or:black">/include/ &quot;system-conf.dtsi&quot;</span><span lang=3D"EN-US"=
+></span></p></div><div><div><p class=3D"xxxxmsonormal"><span style=3D"color=
+:black">/ {</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xx=
+xxmsonormal"><span style=3D"color:black">};</span><span lang=3D"EN-US"></sp=
+an></p></div><div><p class=3D"xxxxmsonormal"><span style=3D"color:black">&n=
+bsp;</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxmsono=
+rmal"><span style=3D"color:black">/* PCIE */</span><span lang=3D"EN-US"></s=
+pan></p></div><div><p class=3D"xxxxmsonormal"><span style=3D"color:black">&=
+nbsp;</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxmson=
+ormal"><span style=3D"color:black">&amp;pcie {</span><span lang=3D"EN-US"><=
+/span></p></div><div><p class=3D"xxxxmsonormal"><span style=3D"color:black"=
+>=E2=80=82=E2=80=82=E2=80=82=E2=80=82=E2=80=82=E2=80=82status =3D &quot;oka=
+y&quot;;</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxm=
+sonormal"><span style=3D"color:black">};</span><span lang=3D"EN-US"></span>=
+</p></div></div><div><p class=3D"xxxxmsonormal"><span style=3D"color:black"=
+>&nbsp;</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxms=
+onormal"><span style=3D"color:black">After doing this I can see the PCIe bu=
+s driver trying to start at boot time. However, the driver fails with error=
+s which I don't understand:</span><span lang=3D"EN-US"></span></p></div><di=
+v><div><p class=3D"xxxxmsonormal"><span style=3D"color:black">&nbsp;</span>=
+<span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxmsonormal"><span=
+ style=3D"color:black">[ &nbsp; &nbsp;5.778759] of-fpga-region fpga-full: F=
+PGA Region probed</span><span lang=3D"EN-US"></span></p></div><div><div><p =
+class=3D"xxxxmsonormal"><span style=3D"color:black">[ &nbsp; &nbsp;5.787470=
+] zynqmp_gpd_attach_dev() domain2 request failed for node 59: -13</span><sp=
+an lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxmsonormal"><span st=
+yle=3D"color:black">[ &nbsp; &nbsp;5.794431] nwl-pcie fd0e0000.pcie: failed=
+ to add to PM domain domain2: -13</span><span lang=3D"EN-US"></span></p></d=
+iv><p class=3D"xxxxmsonormal"><span style=3D"color:black">[ &nbsp; &nbsp;5.=
+801391] nwl-pcie: probe of fd0e0000.pcie failed with error -13</span><span =
+lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxmsonormal"><span style=
+=3D"color:black">&nbsp;</span><span lang=3D"EN-US"></span></p></div><div><p=
+ class=3D"xxxxmsonormal"><span style=3D"color:black">After receiving these =
+error when I login to Linux and execute the lspci command there is no outpu=
+t.</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxmsonorm=
+al"><span style=3D"color:black">&nbsp;</span><span lang=3D"EN-US"></span></=
+p></div><div><p class=3D"xxxxmsonormal"><span style=3D"color:black">Do you =
+have any insight into what this might be? Are there additional device tree =
+changes needed? Do you know of any others who have gotten the PCIe bus work=
+ing correctly on the&nbsp;EMC2-ZU4CG?</span><span lang=3D"EN-US"></span></p=
+></div><div><p class=3D"xxxxmsonormal"><span style=3D"color:black">&nbsp;</=
+span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxxxmsonormal">=
+<span style=3D"color:black">I have attached the entire boot log in case it =
+is of use.</span><span lang=3D"EN-US"></span></p></div><div><p class=3D"xxx=
+xmsonormal"><span style=3D"color:black">&nbsp;</span><span lang=3D"EN-US"><=
+/span></p></div><div><p class=3D"xxxxmsonormal"><span style=3D"color:black"=
+>Thanks,<br>Kevin</span><span lang=3D"EN-US"></span></p></div><div><p class=
+=3D"xxxxmsonormal"><span style=3D"color:black">&nbsp;</span><span lang=3D"E=
+N-US"></span></p></div><div><p class=3D"xxxxmsonormal"><span style=3D"font-=
+size:9.0pt; color:black">--</span><span lang=3D"EN-US"></span></p></div><di=
+v id=3D"x_x_x_x_Signature"><p><span style=3D"font-size:9.0pt">Kevin Martin<=
+br>Fermi National Accelerator Laboratory<br>Accelerator Directorate<br>Powe=
+r Electronics Systems Department<br>630.840.2983<br><a href=3D"mailto:ksmar=
+tin@fnal.gov">ksmartin@fnal.gov</a></span><span lang=3D"EN-US"></span></p><=
+/div></div></div></div></div></div></div></div></div></div></body></html>=
+
+--_8C9CC5FB-B037-1646-A4EF-BE1B5E9F232D_
+Content-Type: image/png; name="image001.png"
+Content-ID: <image001.png@01DA5AD5.60357160>
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="image001.png"
+
+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
+gg==
+
+--_8C9CC5FB-B037-1646-A4EF-BE1B5E9F232D_
+Content-Type: image/png; name="image002.png"
+Content-ID: <image002.png@01DA5AD5.60357160>
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="image002.png"
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHLSURBVDhPY2QAgvtT1QL+/vvfyMjIoAfiEwv+
+//t/i4GJceri17enMIIM+ff//3qoHFkAaGArE8glUD7ZgJGJsZqJWO8wcwgycCu5MLAJqUFFQAYw
+Q1lA9t0pqv+hbAZB8wKGjxfmMfz7+QkqAgEgA0RdehiYWLnA/C+3tzL8//uT4e2hJoZ/v7+BxZjA
+JBQImmQxSIeuRbEVBIRt6+CGgACPqjcDK788A6ugElQEzaCfLy+AFUiHrWUQ95jEwKcTycAhaczA
+wiMBVYEAIFf9fHUFykMz6PvTk8AY+MvAyMzOwK3swSBi38ggFbQcKosKkA0BARSDQF5CDkB84Pe7
+W1AWBKAY9O7kBAybsAGQGlggwwCKQb/eXGf4BbQJ5D184O2RVigLAVAMAoGPFxcy/Hp9GcrDBF9u
+bmT48fwslIcAGAaBXPXx8lKGv99eQ0UQ4PO11Qyv99dAeagAniCZuUQZBIxSGXg1ghiY2PnAkjDw
+98d7hndHOxk+31gHFcEEKCkbBNhENBnYgAkNlJ7+AF315/NThh/QZIEPMN6ZpHITmOlQkzIZgAlU
+nkDZZANgxp/DLGj67rQepxALIyOjHVScJAAy5JsoazYAn2CbajO4TE4AAAAASUVORK5CYII=
+
+--_8C9CC5FB-B037-1646-A4EF-BE1B5E9F232D_
+Content-Type: image/png; name="image003.png"
+Content-ID: <image003.png@01DA5AD5.60357160>
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="image003.png"
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFASURBVDhPY2QAgvtT1QL+/vvfyMjIoAfiEwv+
+//t/i4GJceri17enMIIM+ff//3qoHFkAaGAr453JqhdJcQkLrzQDK58Mw9+fnxh+v7/H8P/vT7A4
+490pqv/BLAKATUiNQcy1m4FNRBMqwsDwfEMsw/enJ8FsJjBJADAyszOIe0xCMQQdEGUQK788A6ug
+Epj958sLhjeHmsCu+fnmOlgMBIgzCGoICHy9vZXh0+UlYC/9A4YTDBBlEBMrF5TFwPDvzzcoCxXg
+DWwBo3SgaxTBXuOQNAaL/QJ6B+ald0c7Gf7+eA9m4zVIMmAxA6e0OZSHCe7P0IVHP1FewwZAgQ4z
+BASISke8GkEMos4dYPb705MZ3p+aDGYjA7JdhA4GoUHgooAKgAlUnkDZZANg6TGHCVQogcoTqBjJ
+AGTIN1HWbAArD3aksZwEVwAAAABJRU5ErkJggg==
+
+--_8C9CC5FB-B037-1646-A4EF-BE1B5E9F232D_
+Content-Type: image/png; name="image004.png"
+Content-ID: <image004.png@01DA5AD5.60357160>
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="image004.png"
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFbSURBVDhPY2QAgvtT1QL+/vvfyMjIoAfiEwv+
+//t/i4GJceri17enMIIM+ff//3qoHFkAaGArE8glUD7ZgJGJsZqJVO/gAox3p6j+h7IZWPnlGXhU
+vRkYmJihIrjB13t7GH69uQ7lIRnEzCXKIBe3j4GRmR0sQQj8//eX4enqILhhTGASCLjkbIk2BAQY
+ga7mVnKB8pAMwuYdkPPfn57M8O/nJ6gIKmDhlYaykAxi4ZGAshDg369PDO9PTWZ4tNiJ4ePFBQz/
+//6EymAChIsYcQcwyGYWXhm8XkcY9P8vlIEAIAPEPacxyIRvRAkPbABu0N/v76EsBOCUNsdrwP/f
+36AsJIN+PD0FjlJSwNf7e6AstATJIWnMwK3szsDEzgcVwQ5Asfjt/l6G709PQkXQDKIEMIGLAioA
+JlB5AmWTDYAZfw6zoOm703qcQiyMjIx2UHGSAMiQb6Ks2QDxiW+q6JSP/QAAAABJRU5ErkJggg==
+
+--_8C9CC5FB-B037-1646-A4EF-BE1B5E9F232D_
+Content-Type: image/png; name="image005.png"
+Content-ID: <image005.png@01DA5AD5.60357160>
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="image005.png"
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFcSURBVDhPY2QAgvtT1QL+/vvfyMjIoAfiEwv+
+//t/i4GJceri17enMIIM+ff//3qoHFkAaGArE8glUD7ZgJGJsZoJ2Tus/PIMYi7dDNzKHlAR4gET
+lAYDQdMcBh51fwZR5w6oCPEAxaBvDw8w/Pv9jeHbvd1QEeIB490pqv+hbIoAikHCVuUM3CoeDH++
+vGB4ti4Szv8KdCEjMzsDj6o3AyMLO8P3pycZXu3IA7seBlC8xsQpyMDCK83AwiOBwufTjWXg04lk
+YGLnAxvIJWfHwG+UBlYDAygG4QKMTMwML7amMzxZ7sPw+/09sBintDmYhgGiDPr17hbDtwf7wfSP
+lxfAYjBXwwBRBv39/h7Kwg2IMogYQBuD/gG98OfzU3D0I/P/fnsD5oMAuhoYYLwzSeUmMNOpQflk
+AyZQeQJlkw2AGX8Os6Dpu9N6nEIsjIyMdlBxkgDIkG+irNkA3zV3Vc38yssAAAAASUVORK5CYII=
+
+--_8C9CC5FB-B037-1646-A4EF-BE1B5E9F232D_
+Content-Type: image/png; name="image006.png"
+Content-ID: <image006.png@01DA5AD5.60357160>
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="image006.png"
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALKSURBVDhPnZRLTBNRFIb/206n9IHQlooJCKhU
+UJMmmJAoGlFDjBETDYmJG1csTVyxdGEwhgVuQBYmupBEg8bogrhkJcYFaOILQV4+GmihtJTS13Rm
+Op65nRZrWIhfcpO5557zn3PvORkG4vsDf5fVe/QOs5Q16/t/RZPTi9Lq1L1HS+8G2fx9f1flkasv
+zDa3cbwzcnICya/P+1jg6eUpW03rYcMOobwGlsoGmG0uMIsDzCTkD7QcctlNqNImlI2fkGM/8nZC
+WvkEFhi5qImeJm5wNJ6HveEs5LUZKMkQxSrcXkAXFRx7YPH4IIU+ID71jNuVeACCJqegpqOwuA5w
+kcibPsjrC9xhO6xVzcjNyPAc74EYfI/00gRVmoBJSQShJlchuvZBogMpOIlcJsqXpqQg0jVF1356
+DIXvXcd6INg9SP16zZOr6TXIvCJyyFIFJtEJaW0aaiqSz1ztR9XpXrKXQ9NUbouM30Zw9BqUzRCc
+vguw1bUjG5mj91Nh4h76R1klctIGlFSYZ65qv0VZxxF4cg6B4XZsfByG5+RNElmhtUS3CPM4voi8
+EMHM1vwHdcda3QKTdReib/spaBlqJobYxADNTRL2uhPc52+KQiWYzFSVxAMLaDmVZialZzQspWwJ
+kWMBvbWgVle0dFPL84HOpks0Y7XIUJe2w5g2mgWam0I2NbOO8FgPvB13UX7oCj2DxEUi473IRme5
+DxOMpzDYEkqEILoPGjsguTgGaaQT9vpTPIFeSUFER3T7oFJMgeLVMssTsO1tg6Wi3rCQOHUn/mUE
+8c+PS0TMdi8cvk6kKaYAWxjyacY3dnf003SfQWJ2lALn+IP/iX4dvRJdJBueRuhVN28CP5sfbPzG
+TKx4Jyc52WrbIFTUGZZS9OvolSRmXhZFdNj8kO8G/ZQGjP1/wRgeml2t0Um/zS0wxuhVd44ukvJa
+rv8Gs4Q6owDK6o4AAAAASUVORK5CYII=
+
+--_8C9CC5FB-B037-1646-A4EF-BE1B5E9F232D_--
